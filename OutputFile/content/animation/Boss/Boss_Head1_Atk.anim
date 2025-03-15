@@ -1,0 +1,15 @@
+[ANIMATION_NAME]
+Boss_Head1_Atk
+
+[ATLAS_TEXTURE]
+Boss_Head1_Atk
+texture\Boss.png
+
+[FRAME_DATA]
+Frame_Count 1
+
+Frame_Index 0
+Left_Top    10.000000 22.192699
+Offset      -10.000000 0.000000
+Slice       496.294006 348.774994
+Duration    1.000000

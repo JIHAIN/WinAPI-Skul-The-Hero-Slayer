@@ -1,0 +1,46 @@
+[ANIMATION_NAME]
+Sniper_Move_Left
+
+[ATLAS_TEXTURE]
+Sniper_Move_Left
+texture\Monster_Move2.png
+
+[FRAME_DATA]
+Frame_Count 6
+
+Frame_Index 0
+Left_Top    1056.000000 285.000000
+Offset      0.000000 0.000000
+Slice       77.000000 92.000000
+Duration    0.150000
+
+Frame_Index 1
+Left_Top    971.000000 277.000000
+Offset      0.000000 -5.000000
+Slice       78.000000 100.000000
+Duration    0.150000
+
+Frame_Index 2
+Left_Top    879.000000 280.000000
+Offset      0.000000 -3.000000
+Slice       85.000000 97.000000
+Duration    0.150000
+
+Frame_Index 3
+Left_Top    799.000000 281.000000
+Offset      0.000000 -2.000000
+Slice       80.000000 96.000000
+Duration    0.150000
+
+Frame_Index 4
+Left_Top    709.000000 283.000000
+Offset      0.000000 -2.000000
+Slice       87.000000 94.000000
+Duration    0.150000
+
+Frame_Index 5
+Left_Top    623.000000 274.000000
+Offset      0.000000 -7.000000
+Slice       90.000000 103.000000
+Duration    0.150000
+

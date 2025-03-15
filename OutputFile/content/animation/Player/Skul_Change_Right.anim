@@ -1,0 +1,52 @@
+[ANIMATION_NAME]
+Skul_Change_Right
+
+[ATLAS_TEXTURE]
+Skul_Change_Right
+texture\Skul_NoHead.png
+
+[FRAME_DATA]
+Frame_Count 7
+
+Frame_Index 0
+Left_Top    40.211700 1038.839966
+Offset      3.000000 15.000000
+Slice       117.000000 131.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    165.149002 1038.829956
+Offset      -15.000000 21.000000
+Slice       158.000000 115.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    319.000000 1017.830017
+Offset      -16.000000 13.000000
+Slice       156.000000 143.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    474.148987 1017.830017
+Offset      -11.000000 7.000000
+Slice       128.000000 140.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    611.148987 1018.830017
+Offset      6.000000 -1.000000
+Slice       126.000000 122.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    738.418030 1013.830017
+Offset      19.000000 -7.000000
+Slice       161.000000 128.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    903.418030 1014.830017
+Offset      11.000000 1.000000
+Slice       165.000000 143.000000
+Duration    0.100000
+

@@ -1,0 +1,16 @@
+[ANIMATION_NAME]
+Sword_Hit_Right
+
+[ATLAS_TEXTURE]
+Sword_Hit_Right
+texture\FULL_3000.png
+
+[FRAME_DATA]
+Frame_Count 1
+
+Frame_Index 0
+Left_Top    182.292999 1478.810059
+Offset      0.000000 20.000000
+Slice       99.000000 89.000000
+Duration    1.000000
+

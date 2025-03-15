@@ -1,0 +1,130 @@
+[ANIMATION_NAME]
+Mage_ATK_Fireball_Careat
+
+[ATLAS_TEXTURE]
+Mage_ATK_Fireball_Careat
+texture\Mage_Fireball.png
+
+[FRAME_DATA]
+Frame_Count 20
+
+Frame_Index 0
+Left_Top    24.000000 17.000000
+Offset      0.000000 -2.000000
+Slice       68.000000 63.000000
+Duration    0.050000
+
+Frame_Index 1
+Left_Top    124.000000 16.000000
+Offset      0.000000 -2.000000
+Slice       85.000000 73.000000
+Duration    0.050000
+
+Frame_Index 2
+Left_Top    231.000000 15.000000
+Offset      3.000000 0.000000
+Slice       88.000000 81.000000
+Duration    0.050000
+
+Frame_Index 3
+Left_Top    335.000000 12.000000
+Offset      2.000000 0.000000
+Slice       92.000000 86.000000
+Duration    0.050000
+
+Frame_Index 4
+Left_Top    446.000000 8.000000
+Offset      2.000000 2.000000
+Slice       98.000000 99.000000
+Duration    0.050000
+
+Frame_Index 5
+Left_Top    555.000000 10.000000
+Offset      1.000000 1.000000
+Slice       102.000000 97.000000
+Duration    0.050000
+
+Frame_Index 6
+Left_Top    661.000000 7.000000
+Offset      -1.000000 1.000000
+Slice       111.000000 100.000000
+Duration    0.050000
+
+Frame_Index 7
+Left_Top    773.000000 7.000000
+Offset      2.000000 1.000000
+Slice       115.000000 102.000000
+Duration    0.050000
+
+Frame_Index 8
+Left_Top    3.000000 116.000000
+Offset      3.000000 -3.000000
+Slice       108.000000 105.000000
+Duration    0.050000
+
+Frame_Index 9
+Left_Top    119.000000 112.000000
+Offset      0.000000 1.000000
+Slice       123.000000 116.000000
+Duration    0.050000
+
+Frame_Index 10
+Left_Top    255.000000 112.000000
+Offset      0.000000 2.000000
+Slice       123.000000 116.000000
+Duration    0.050000
+
+Frame_Index 11
+Left_Top    385.000000 115.000000
+Offset      -1.000000 2.000000
+Slice       125.000000 115.000000
+Duration    0.050000
+
+Frame_Index 12
+Left_Top    519.000000 117.000000
+Offset      -2.000000 0.000000
+Slice       124.000000 116.000000
+Duration    0.050000
+
+Frame_Index 13
+Left_Top    654.000000 120.000000
+Offset      2.000000 5.000000
+Slice       129.000000 123.000000
+Duration    0.050000
+
+Frame_Index 14
+Left_Top    794.000000 122.000000
+Offset      4.000000 2.000000
+Slice       122.000000 124.000000
+Duration    0.050000
+
+Frame_Index 15
+Left_Top    6.000000 231.000000
+Offset      4.000000 2.000000
+Slice       125.000000 127.000000
+Duration    0.050000
+
+Frame_Index 16
+Left_Top    142.000000 236.000000
+Offset      4.000000 -3.000000
+Slice       128.000000 112.000000
+Duration    0.050000
+
+Frame_Index 17
+Left_Top    278.000000 233.000000
+Offset      0.000000 0.000000
+Slice       137.000000 121.000000
+Duration    0.050000
+
+Frame_Index 18
+Left_Top    428.000000 238.000000
+Offset      3.000000 0.000000
+Slice       127.000000 120.000000
+Duration    0.050000
+
+Frame_Index 19
+Left_Top    548.000000 241.000000
+Offset      1.000000 1.000000
+Slice       131.000000 112.000000
+Duration    0.050000
+

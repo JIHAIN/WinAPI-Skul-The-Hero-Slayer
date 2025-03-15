@@ -1,0 +1,28 @@
+[ANIMATION_NAME]
+falling
+
+[ATLAS_TEXTURE]
+falling
+texture\Skul_Atlase.png
+
+[FRAME_DATA]
+Frame_Count 3
+
+Frame_Index 0
+Left_Top    9.404420 663.869995
+Offset      -4.000000 0.000000
+Slice       97.000000 100.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    123.403999 660.869995
+Offset      -1.000000 -3.000000
+Slice       101.000000 100.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    240.404007 660.869995
+Offset      -3.000000 -2.000000
+Slice       100.000000 102.000000
+Duration    0.100000
+

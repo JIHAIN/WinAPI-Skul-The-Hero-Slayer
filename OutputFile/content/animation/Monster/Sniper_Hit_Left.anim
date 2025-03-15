@@ -1,0 +1,16 @@
+[ANIMATION_NAME]
+Sniper_Hit_Left
+
+[ATLAS_TEXTURE]
+Sniper_Hit_Left
+texture\FULL_3000.png
+
+[FRAME_DATA]
+Frame_Count 1
+
+Frame_Index 0
+Left_Top    307.292999 1473.810059
+Offset      0.000000 20.000000
+Slice       115.000000 87.000000
+Duration    1.000000
+

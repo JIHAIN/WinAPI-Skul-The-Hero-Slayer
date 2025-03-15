@@ -1,0 +1,12 @@
+[ANIMATION_NAME]
+Boss_Hand2_Left_Stamp
+[ATLAS_TEXTURE]
+Boss_Hand2_Left_Stamp
+texture\Boss.png
+[FRAME_DATA]
+Frame_Count 1
+Frame_Index 0
+Left_Top    479.019626 2114.593279
+Offset      0.000000 0.000000
+Slice       374.812200 332.831000
+Duration    1.000000

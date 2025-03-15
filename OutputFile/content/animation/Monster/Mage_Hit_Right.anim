@@ -1,0 +1,16 @@
+[ANIMATION_NAME]
+Mage_Hit_Right
+
+[ATLAS_TEXTURE]
+Mage_Hit_Right
+texture\FULL_3000.png
+
+[FRAME_DATA]
+Frame_Count 1
+
+Frame_Index 0
+Left_Top    449.292999 1470.810059
+Offset      0.000000 10.000000
+Slice       126.000000 119.000000
+Duration    1.000000
+

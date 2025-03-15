@@ -1,0 +1,34 @@
+[ANIMATION_NAME]
+Mage_ATK_Fireball_Left
+
+[ATLAS_TEXTURE]
+Mage_ATK_Fireball_Left
+texture\Mage_Fireball.png
+
+[FRAME_DATA]
+Frame_Count 4
+
+Frame_Index 0
+Left_Top    23.000000 385.000000
+Offset      13.000000 0.000000
+Slice       80.000000 41.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    120.000000 386.000000
+Offset      10.000000 0.000000
+Slice       78.000000 45.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    206.000000 382.000000
+Offset      7.000000 -1.000000
+Slice       81.000000 49.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    296.000000 383.000000
+Offset      6.000000 0.000000
+Slice       79.000000 46.000000
+Duration    0.100000
+

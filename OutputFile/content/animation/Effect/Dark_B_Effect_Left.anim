@@ -1,0 +1,42 @@
+[ANIMATION_NAME]
+Dark_B_Effect_Left
+[ATLAS_TEXTURE]
+Dark_B_Effect_Left
+texture\DarkPaladin_Slash.png
+[FRAME_DATA]
+Frame_Count 7
+Frame_Index 0
+Left_Top    3291.340088 955.192016
+Offset      0.000000 0.000000
+Slice       434.000000 294.000000
+Duration    0.100000
+Frame_Index 1
+Left_Top    2845.620118 983.192016
+Offset      0.000000 0.000000
+Slice       450.000000 298.000000
+Duration    0.100000
+Frame_Index 2
+Left_Top    2336.500000 985.192016
+Offset      0.000000 0.000000
+Slice       494.000000 312.000000
+Duration    0.100000
+Frame_Index 3
+Left_Top    1783.125976 979.192016
+Offset      0.000000 0.000000
+Slice       552.000000 314.000000
+Duration    0.100000
+Frame_Index 4
+Left_Top    1203.115966 991.192016
+Offset      0.000000 0.000000
+Slice       558.000000 310.000000
+Duration    0.100000
+Frame_Index 5
+Left_Top    622.828002 965.192016
+Offset      0.000000 0.000000
+Slice       562.000000 322.000000
+Duration    0.100000
+Frame_Index 6
+Left_Top    52.252602 959.192016
+Offset      0.000000 0.000000
+Slice       552.000000 348.000000
+Duration    0.100000

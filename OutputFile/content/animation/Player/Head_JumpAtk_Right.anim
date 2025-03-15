@@ -1,0 +1,34 @@
+[ANIMATION_NAME]
+Head_JumpAtk_Right
+
+[ATLAS_TEXTURE]
+Head_JumpAtk_Right
+texture\Skul_NoHead.png
+
+[FRAME_DATA]
+Frame_Count 4
+
+Frame_Index 0
+Left_Top    1125.150024 790.081970
+Offset      3.000000 0.000000
+Slice       98.000000 107.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    1225.150024 787.081970
+Offset      25.000000 9.000000
+Slice       162.000000 147.000000
+Duration    0.200000
+
+Frame_Index 2
+Left_Top    1391.150024 790.081970
+Offset      24.000000 33.000000
+Slice       153.000000 108.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    1542.150024 788.081970
+Offset      -11.000000 31.000000
+Slice       92.000000 81.000000
+Duration    0.100000
+

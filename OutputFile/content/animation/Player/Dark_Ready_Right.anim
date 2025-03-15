@@ -1,0 +1,40 @@
+[ANIMATION_NAME]
+Dark_Ready_Right
+
+[ATLAS_TEXTURE]
+Dark_Ready_Right
+texture\Dark_Slayer.png
+
+[FRAME_DATA]
+Frame_Count 5
+
+Frame_Index 0
+Left_Top    7.842930 1700.680054
+Offset      8.000000 -5.000000
+Slice       111.000000 127.000000
+Duration    0.200000
+
+Frame_Index 1
+Left_Top    125.843002 1700.680054
+Offset      30.000000 3.000000
+Slice       159.000000 114.000000
+Duration    0.200000
+
+Frame_Index 2
+Left_Top    289.842987 1694.680054
+Offset      31.000000 -2.000000
+Slice       160.000000 117.000000
+Duration    0.200000
+
+Frame_Index 3
+Left_Top    454.842987 1692.680054
+Offset      30.000000 -1.000000
+Slice       158.000000 119.000000
+Duration    0.200000
+
+Frame_Index 4
+Left_Top    619.445984 1692.680054
+Offset      30.000000 -1.000000
+Slice       161.000000 119.000000
+Duration    0.200000
+

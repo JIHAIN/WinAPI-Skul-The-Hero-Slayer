@@ -1,0 +1,16 @@
+[ANIMATION_NAME]
+Dash_Right
+
+[ATLAS_TEXTURE]
+Dash_Right
+texture\Skul_Atlase.png
+
+[FRAME_DATA]
+Frame_Count 1
+
+Frame_Index 0
+Left_Top    15.000000 296.000000
+Offset      13.000000 17.000000
+Slice       107.000000 71.000000
+Duration    1.000000
+

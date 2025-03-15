@@ -1,0 +1,22 @@
+[ANIMATION_NAME]
+Dark_Fall_Left
+
+[ATLAS_TEXTURE]
+Dark_Fall_Left
+texture\Dark_Slayer_Left.png
+
+[FRAME_DATA]
+Frame_Count 2
+
+Frame_Index 0
+Left_Top    2439.350098 595.078979
+Offset      -4.000000 -3.000000
+Slice       229.000000 120.000000
+Duration    0.200000
+
+Frame_Index 1
+Left_Top    2205.350098 599.078979
+Offset      -1.000000 0.000000
+Slice       229.000000 116.000000
+Duration    0.200000
+

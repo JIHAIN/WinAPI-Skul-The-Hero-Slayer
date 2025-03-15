@@ -1,0 +1,41 @@
+[MAP_NAME]
+
+
+[PLATFORM_DATA]
+PLATFORM_COUNT 7
+
+PLATFORM 0
+Type        1
+Position    291.190979 -87.709671
+Scale       -684.280884 263.916046
+
+PLATFORM 1
+Type        1
+Position    227.550568 156.748352
+Scale       283.000000 105.000000
+
+PLATFORM 2
+Type        1
+Position    433.322998 -327.856323
+Scale       247.000000 157.000000
+
+PLATFORM 3
+Type        1
+Position    -25.351624 -318.654358
+Scale       216.000000 129.000000
+
+PLATFORM 4
+Type        1
+Position    190.148376 -353.654358
+Scale       135.000000 125.000000
+
+PLATFORM 5
+Type        1
+Position    166.148376 -328.654358
+Scale       469.000000 309.000000
+
+PLATFORM 6
+Type        1
+Position    763.106323 -279.162109
+Scale       228.000000 221.000000
+

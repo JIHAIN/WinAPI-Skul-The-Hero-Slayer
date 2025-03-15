@@ -1,0 +1,58 @@
+[ANIMATION_NAME]
+Dark_Idle_Right
+
+[ATLAS_TEXTURE]
+Dark_Idle_Right
+texture\Dark_Slayer.png
+
+[FRAME_DATA]
+Frame_Count 8
+
+Frame_Index 0
+Left_Top    6.575960 27.583799
+Offset      2.000000 3.000000
+Slice       204.000000 116.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    218.406006 25.758900
+Offset      5.000000 1.000000
+Slice       199.000000 116.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    418.406006 23.758900
+Offset      2.000000 0.000000
+Slice       200.000000 123.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    623.609985 24.758900
+Offset      5.000000 -1.000000
+Slice       204.000000 122.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    826.614990 25.758900
+Offset      5.000000 -3.000000
+Slice       206.000000 121.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    1025.969971 23.758900
+Offset      1.000000 -2.000000
+Slice       216.000000 123.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    1234.780029 19.758900
+Offset      1.000000 -2.000000
+Slice       206.000000 127.000000
+Duration    0.100000
+
+Frame_Index 7
+Left_Top    1441.780029 17.758900
+Offset      4.000000 0.000000
+Slice       206.000000 131.000000
+Duration    0.100000
+

@@ -1,0 +1,82 @@
+[ANIMATION_NAME]
+Dark_Skill_2
+
+[ATLAS_TEXTURE]
+Dark_Skill_2
+texture\DarkPaladin_MagicCircle.png
+
+[FRAME_DATA]
+Frame_Count 12
+
+Frame_Index 0
+Left_Top    12.478900 28.895500
+Offset      0.000000 0.000000
+Slice       138.000000 133.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    166.479004 11.895500
+Offset      0.000000 0.000000
+Slice       154.000000 164.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    324.479004 12.895500
+Offset      -7.000000 -3.000000
+Slice       151.000000 158.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    485.479004 10.895500
+Offset      -8.000000 -3.000000
+Slice       149.000000 159.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    652.479004 10.895500
+Offset      -9.000000 -2.000000
+Slice       148.000000 159.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    821.806030 0.895477
+Offset      -2.000000 -7.000000
+Slice       165.000000 164.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    989.806030 0.895477
+Offset      -7.000000 -6.000000
+Slice       160.000000 168.000000
+Duration    0.100000
+
+Frame_Index 7
+Left_Top    4.332670 204.729996
+Offset      -12.000000 1.000000
+Slice       151.000000 167.000000
+Duration    0.100000
+
+Frame_Index 8
+Left_Top    173.332993 194.729996
+Offset      -8.000000 -5.000000
+Slice       145.000000 183.000000
+Duration    0.100000
+
+Frame_Index 9
+Left_Top    336.333008 177.729996
+Offset      1.000000 -13.000000
+Slice       154.000000 204.000000
+Duration    0.100000
+
+Frame_Index 10
+Left_Top    489.333008 188.729996
+Offset      -6.000000 -12.000000
+Slice       152.000000 183.000000
+Duration    0.100000
+
+Frame_Index 11
+Left_Top    648.372009 192.729996
+Offset      -7.000000 -11.000000
+Slice       160.000000 180.000000
+Duration    0.100000
+

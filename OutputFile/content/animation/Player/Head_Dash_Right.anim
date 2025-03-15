@@ -1,0 +1,16 @@
+[ANIMATION_NAME]
+Head_Dash_Right
+
+[ATLAS_TEXTURE]
+Head_Dash_Right
+texture\Skul_NoHead.png
+
+[FRAME_DATA]
+Frame_Count 1
+
+Frame_Index 0
+Left_Top    19.000000 332.000000
+Offset      -1.000000 21.000000
+Slice       97.000000 65.000000
+Duration    1.000000
+

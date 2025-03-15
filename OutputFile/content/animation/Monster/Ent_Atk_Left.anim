@@ -1,0 +1,58 @@
+[ANIMATION_NAME]
+Ent_Atk_Left
+
+[ATLAS_TEXTURE]
+Ent_Atk_Left
+texture\FULL_3000.png
+
+[FRAME_DATA]
+Frame_Count 8
+
+Frame_Index 0
+Left_Top    2542.020020 441.114990
+Offset      2.000000 0.000000
+Slice       122.000000 129.000000
+Duration    0.200000
+
+Frame_Index 1
+Left_Top    2395.020020 437.114990
+Offset      4.000000 -2.000000
+Slice       122.000000 137.000000
+Duration    0.200000
+
+Frame_Index 2
+Left_Top    2246.020020 435.114990
+Offset      6.000000 -3.000000
+Slice       126.000000 142.000000
+Duration    0.200000
+
+Frame_Index 3
+Left_Top    1370.280029 436.114990
+Offset      -14.000000 12.000000
+Slice       166.000000 111.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    1565.280029 435.114990
+Offset      -23.000000 14.000000
+Slice       157.000000 105.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    2079.000000 441.114990
+Offset      -36.000000 24.000000
+Slice       145.000000 92.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    1911.000000 433.114990
+Offset      -34.000000 22.000000
+Slice       143.000000 97.000000
+Duration    0.100000
+
+Frame_Index 7
+Left_Top    1736.000000 437.114990
+Offset      -32.000000 22.000000
+Slice       154.000000 88.000000
+Duration    0.100000
+

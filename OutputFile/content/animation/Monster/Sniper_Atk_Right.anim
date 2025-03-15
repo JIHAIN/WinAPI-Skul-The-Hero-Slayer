@@ -1,0 +1,16 @@
+[ANIMATION_NAME]
+Sniper_Atk_Right
+
+[ATLAS_TEXTURE]
+Sniper_Atk_Right
+texture\Sniper_Awrrow1.png
+
+[FRAME_DATA]
+Frame_Count 1
+
+Frame_Index 0
+Left_Top    14.000000 11.282500
+Offset      0.000000 0.000000
+Slice       70.000000 23.000000
+Duration    1.000000
+

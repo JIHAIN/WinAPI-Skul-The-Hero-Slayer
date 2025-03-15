@@ -1,0 +1,40 @@
+[ANIMATION_NAME]
+Dark_Ready_Left
+
+[ATLAS_TEXTURE]
+Dark_Ready_Left
+texture\Dark_Slayer_Left.png
+
+[FRAME_DATA]
+Frame_Count 5
+
+Frame_Index 0
+Left_Top    2548.219971 1702.479980
+Offset      0.000000 -5.000000
+Slice       119.000000 123.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    2386.219971 1701.479980
+Offset      -24.000000 3.000000
+Slice       157.000000 112.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    2227.780029 1690.479980
+Offset      -21.000000 -2.000000
+Slice       153.000000 124.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    2054.780029 1691.479980
+Offset      -24.000000 0.000000
+Slice       160.000000 122.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    1891.780029 1692.479980
+Offset      -20.000000 -1.000000
+Slice       162.000000 119.000000
+Duration    0.100000
+

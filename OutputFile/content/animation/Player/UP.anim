@@ -1,0 +1,22 @@
+[ANIMATION_NAME]
+UP
+
+[ATLAS_TEXTURE]
+Skul
+texture\Skul_Atlase.png
+
+[FRAME_DATA]
+Frame_Count 2
+
+Frame_Index 0
+Left_Top    0.000000 380.000000
+Offset      -7.000000 0.000000
+Slice       67.000000 130.000000
+Duration    0.150000
+
+Frame_Index 1
+Left_Top    82.000000 380.000000
+Offset      13.000000 0.000000
+Slice       80.000000 130.000000
+Duration    0.150000
+

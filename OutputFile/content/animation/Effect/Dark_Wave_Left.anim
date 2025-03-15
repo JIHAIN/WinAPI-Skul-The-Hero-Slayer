@@ -1,0 +1,106 @@
+[ANIMATION_NAME]
+Dark_Wave_Left
+
+[ATLAS_TEXTURE]
+Dark_Wave_Left
+texture\DarkWave_Left.png
+
+[FRAME_DATA]
+Frame_Count 16
+
+Frame_Index 0
+Left_Top    36.858601 13.535400
+Offset      22.000000 0.000000
+Slice       310.000000 194.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    375.444000 5.535430
+Offset      27.000000 -2.000000
+Slice       296.000000 197.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    686.190002 19.535400
+Offset      19.000000 4.000000
+Slice       309.000000 183.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    1004.260010 14.535400
+Offset      7.000000 0.000000
+Slice       287.000000 188.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    1326.000000 11.000000
+Offset      30.000000 -1.000000
+Slice       313.000000 211.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    1658.000000 23.000000
+Offset      3.000000 0.000000
+Slice       308.000000 210.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    383.644989 265.242004
+Offset      22.000000 -3.000000
+Slice       297.000000 212.000000
+Duration    0.100000
+
+Frame_Index 7
+Left_Top    694.695984 288.242004
+Offset      16.000000 7.000000
+Slice       322.000000 205.000000
+Duration    0.100000
+
+Frame_Index 8
+Left_Top    1034.140015 275.242004
+Offset      12.000000 -3.000000
+Slice       329.000000 205.000000
+Duration    0.100000
+
+Frame_Index 9
+Left_Top    1377.500000 275.242004
+Offset      9.000000 0.000000
+Slice       327.000000 204.000000
+Duration    0.100000
+
+Frame_Index 10
+Left_Top    1705.010010 268.242004
+Offset      22.000000 -6.000000
+Slice       315.000000 207.000000
+Duration    0.100000
+
+Frame_Index 11
+Left_Top    14.093900 527.875977
+Offset      19.000000 2.000000
+Slice       312.000000 211.000000
+Duration    0.100000
+
+Frame_Index 12
+Left_Top    366.368011 537.875977
+Offset      21.000000 8.000000
+Slice       296.000000 196.000000
+Duration    0.100000
+
+Frame_Index 13
+Left_Top    700.346008 538.875977
+Offset      21.000000 5.000000
+Slice       300.000000 180.000000
+Duration    0.100000
+
+Frame_Index 14
+Left_Top    1027.109985 534.875977
+Offset      19.000000 7.000000
+Slice       318.000000 171.000000
+Duration    0.100000
+
+Frame_Index 15
+Left_Top    1690.750000 537.875977
+Offset      -11.000000 8.000000
+Slice       319.000000 173.000000
+Duration    0.100000
+

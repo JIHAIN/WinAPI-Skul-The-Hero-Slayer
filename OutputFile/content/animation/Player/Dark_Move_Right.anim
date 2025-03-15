@@ -1,0 +1,46 @@
+[ANIMATION_NAME]
+Dark_Move_Right
+
+[ATLAS_TEXTURE]
+Dark_Move_Right
+texture\Dark_Slayer.png
+
+[FRAME_DATA]
+Frame_Count 6
+
+Frame_Index 0
+Left_Top    6.541320 172.220001
+Offset      -8.000000 2.000000
+Slice       205.000000 112.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    216.541000 172.220001
+Offset      -5.000000 0.000000
+Slice       203.000000 113.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    420.213989 171.220001
+Offset      -4.000000 3.000000
+Slice       200.000000 116.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    620.929993 174.220001
+Offset      -6.000000 4.000000
+Slice       204.000000 113.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    831.502014 168.220001
+Offset      -4.000000 -1.000000
+Slice       203.000000 119.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    1033.869995 169.220001
+Offset      -4.000000 -1.000000
+Slice       206.000000 117.000000
+Duration    0.100000
+

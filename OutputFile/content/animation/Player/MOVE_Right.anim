@@ -1,0 +1,58 @@
+[ANIMATION_NAME]
+MOVE_Right
+
+[ATLAS_TEXTURE]
+Skul
+texture\Skul_Atlase.png
+
+[FRAME_DATA]
+Frame_Count 8
+
+Frame_Index 0
+Left_Top    13.000000 166.000000
+Offset      4.000000 13.000000
+Slice       110.000000 80.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    140.000000 169.000000
+Offset      -2.000000 11.000000
+Slice       109.000000 80.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    260.000000 130.000000
+Offset      -5.000000 -4.000000
+Slice       120.000000 130.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    390.000000 130.000000
+Offset      -1.000000 -5.000000
+Slice       103.000000 130.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    501.000000 121.000000
+Offset      -5.000000 -10.000000
+Slice       100.000000 130.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    612.000000 130.000000
+Offset      -14.000000 -6.000000
+Slice       106.000000 130.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    737.000000 130.000000
+Offset      -7.000000 -5.000000
+Slice       107.000000 130.000000
+Duration    0.100000
+
+Frame_Index 7
+Left_Top    863.000000 130.000000
+Offset      12.000000 -5.000000
+Slice       130.000000 130.000000
+Duration    0.100000
+

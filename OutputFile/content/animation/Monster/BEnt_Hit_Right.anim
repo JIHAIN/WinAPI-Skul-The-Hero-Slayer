@@ -1,0 +1,16 @@
+[ANIMATION_NAME]
+BEnt_Hit_Right
+
+[ATLAS_TEXTURE]
+BEnt_Hit_Right
+texture\FULL_3000.png
+
+[FRAME_DATA]
+Frame_Count 1
+
+Frame_Index 0
+Left_Top    596.293030 1468.810059
+Offset      0.000000 10.000000
+Slice       136.000000 135.000000
+Duration    1.000000
+

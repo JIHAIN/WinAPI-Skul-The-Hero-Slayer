@@ -1,0 +1,40 @@
+[ANIMATION_NAME]
+Sword_Atk_Left
+
+[ATLAS_TEXTURE]
+Sword_Atk_Left
+texture\FULL_3000.png
+
+[FRAME_DATA]
+Frame_Count 5
+
+Frame_Index 0
+Left_Top    2696.000000 1070.000000
+Offset      8.000000 6.000000
+Slice       73.000000 118.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    2116.000000 1065.000000
+Offset      -27.000000 8.000000
+Slice       139.000000 117.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    2275.000000 1067.000000
+Offset      -15.000000 5.000000
+Slice       127.000000 119.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    2556.030029 1066.910034
+Offset      -4.000000 -2.000000
+Slice       101.000000 131.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    2418.030029 1068.910034
+Offset      -4.000000 5.000000
+Slice       111.000000 116.000000
+Duration    0.100000
+

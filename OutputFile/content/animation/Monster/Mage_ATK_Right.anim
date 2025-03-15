@@ -1,0 +1,88 @@
+[ANIMATION_NAME]
+Mage_ATK_Right
+
+[ATLAS_TEXTURE]
+Mage_ATK_Right
+texture\FULL_3000.png
+
+[FRAME_DATA]
+Frame_Count 13
+
+Frame_Index 0
+Left_Top    61.000000 536.000000
+Offset      -2.000000 -17.000000
+Slice       72.000000 159.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    165.000000 541.000000
+Offset      3.000000 -1.000000
+Slice       80.000000 138.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    1197.000000 538.000000
+Offset      -2.000000 -3.000000
+Slice       73.000000 137.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    370.000000 536.000000
+Offset      -2.000000 -5.000000
+Slice       69.000000 137.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    572.000000 536.000000
+Offset      -1.000000 -3.000000
+Slice       76.000000 141.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    675.000000 536.000000
+Offset      1.000000 -3.000000
+Slice       78.000000 136.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    982.000000 545.000000
+Offset      0.000000 1.000000
+Slice       88.000000 127.000000
+Duration    0.100000
+
+Frame_Index 7
+Left_Top    879.000000 533.000000
+Offset      -2.000000 -5.000000
+Slice       82.000000 143.000000
+Duration    0.100000
+
+Frame_Index 8
+Left_Top    772.000000 546.000000
+Offset      -4.000000 0.000000
+Slice       85.000000 130.000000
+Duration    0.100000
+
+Frame_Index 9
+Left_Top    659.000000 541.000000
+Offset      -6.000000 0.000000
+Slice       97.000000 132.000000
+Duration    0.100000
+
+Frame_Index 10
+Left_Top    367.000000 539.000000
+Offset      -2.000000 -2.000000
+Slice       75.000000 136.000000
+Duration    0.100000
+
+Frame_Index 11
+Left_Top    470.000000 538.000000
+Offset      -6.000000 -8.000000
+Slice       67.000000 147.000000
+Duration    0.100000
+
+Frame_Index 12
+Left_Top    265.000000 543.000000
+Offset      -1.000000 -8.000000
+Slice       77.000000 136.000000
+Duration    0.100000
+

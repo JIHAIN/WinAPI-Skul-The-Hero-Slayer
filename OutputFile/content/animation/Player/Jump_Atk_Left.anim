@@ -1,0 +1,34 @@
+[ANIMATION_NAME]
+Jump_Atk_Left
+
+[ATLAS_TEXTURE]
+Jump_Atk_Left
+texture\Skul_Atlase_re.png
+
+[FRAME_DATA]
+Frame_Count 4
+
+Frame_Index 0
+Left_Top    901.231995 1175.689941
+Offset      -7.000000 0.000000
+Slice       85.000000 106.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    728.231995 1177.689941
+Offset      -23.000000 10.000000
+Slice       157.000000 144.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    564.231995 1176.689941
+Offset      -21.000000 31.000000
+Slice       150.000000 110.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    464.231995 1177.689941
+Offset      9.000000 25.000000
+Slice       84.000000 95.000000
+Duration    0.100000
+

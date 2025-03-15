@@ -1,0 +1,88 @@
+[ANIMATION_NAME]
+Skill_Col
+
+[ATLAS_TEXTURE]
+Skill_Col
+texture\Skil_Cool.png
+
+[FRAME_DATA]
+Frame_Count 13
+
+Frame_Index 0
+Left_Top    8.000000 10.000000
+Offset      0.000000 0.000000
+Slice       83.000000 83.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    6.000000 99.000000
+Offset      0.000000 -2.000000
+Slice       86.000000 92.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    3.000000 207.000000
+Offset      -2.000000 -14.000000
+Slice       127.000000 122.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    6.000000 347.000000
+Offset      -2.000000 -32.000000
+Slice       131.000000 167.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    136.000000 15.000000
+Offset      -4.000000 -28.000000
+Slice       135.000000 167.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    172.000000 196.000000
+Offset      -2.000000 -43.000000
+Slice       140.000000 169.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    175.000000 395.000000
+Offset      0.000000 -44.000000
+Slice       126.000000 167.000000
+Duration    0.100000
+
+Frame_Index 7
+Left_Top    299.000000 12.000000
+Offset      -3.000000 -46.000000
+Slice       129.000000 168.000000
+Duration    0.100000
+
+Frame_Index 8
+Left_Top    337.000000 209.000000
+Offset      -2.000000 -46.000000
+Slice       112.000000 179.000000
+Duration    0.100000
+
+Frame_Index 9
+Left_Top    341.000000 406.000000
+Offset      -4.000000 -54.000000
+Slice       101.000000 154.000000
+Duration    0.100000
+
+Frame_Index 10
+Left_Top    473.000000 13.000000
+Offset      -2.000000 -52.000000
+Slice       96.000000 166.000000
+Duration    0.100000
+
+Frame_Index 11
+Left_Top    488.000000 217.000000
+Offset      -6.000000 -72.000000
+Slice       92.000000 135.000000
+Duration    0.100000
+
+Frame_Index 12
+Left_Top    488.000000 426.000000
+Offset      0.000000 -58.000000
+Slice       94.000000 103.000000
+Duration    0.100000
+

@@ -1,0 +1,52 @@
+[ANIMATION_NAME]
+Ent_Atk_Obj
+
+[ATLAS_TEXTURE]
+Ent_Atk_Obj
+texture\Ent_Atk_Obj.png
+
+[FRAME_DATA]
+Frame_Count 7
+
+Frame_Index 0
+Left_Top    0.000000 164.000000
+Offset      5.000000 3.000000
+Slice       87.000000 23.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    84.017601 203.264008
+Offset      1.000000 -1.000000
+Slice       89.000000 28.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    0.017578 192.264008
+Offset      1.000000 2.000000
+Slice       87.000000 22.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    93.017601 233.264008
+Offset      0.000000 -4.000000
+Slice       96.000000 32.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    0.000000 216.264008
+Offset      -3.000000 -9.000000
+Slice       87.000000 41.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    98.017601 265.264008
+Offset      0.000000 -10.000000
+Slice       103.000000 45.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    -0.982422 258.264008
+Offset      0.000000 -13.000000
+Slice       98.000000 52.000000
+Duration    0.100000
+

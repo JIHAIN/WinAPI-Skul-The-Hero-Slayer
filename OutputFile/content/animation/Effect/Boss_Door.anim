@@ -1,0 +1,52 @@
+[ANIMATION_NAME]
+Boss_Door
+
+[ATLAS_TEXTURE]
+Boss_Door
+texture\Boss_Door2.png
+
+[FRAME_DATA]
+Frame_Count 7
+
+Frame_Index 0
+Left_Top    14.000000 17.000000
+Offset      0.000000 0.000000
+Slice       644.000000 387.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    669.434021 22.000000
+Offset      7.000000 2.000000
+Slice       648.000000 393.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    21.603600 397.829010
+Offset      0.000000 -5.000000
+Slice       626.000000 377.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    648.632019 415.829010
+Offset      -10.000000 9.000000
+Slice       656.000000 377.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    669.617981 800.101013
+Offset      2.000000 -1.000000
+Slice       638.000000 376.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    16.645300 1189.349976
+Offset      -1.000000 -5.000000
+Slice       633.000000 394.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    653.486023 1192.349976
+Offset      -2.000000 -5.000000
+Slice       661.000000 395.000000
+Duration    0.100000
+

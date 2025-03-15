@@ -1,0 +1,28 @@
+[ANIMATION_NAME]
+Head_Fall_Right
+
+[ATLAS_TEXTURE]
+Head_Fall_Right
+texture\Skul_NoHead.png
+
+[FRAME_DATA]
+Frame_Count 3
+
+Frame_Index 0
+Left_Top    323.000000 333.000000
+Offset      -11.000000 2.000000
+Slice       104.000000 109.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    435.000000 333.000000
+Offset      -10.000000 1.000000
+Slice       101.000000 107.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    541.000000 333.000000
+Offset      -14.000000 1.000000
+Slice       105.000000 106.000000
+Duration    0.100000
+

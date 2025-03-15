@@ -1,0 +1,40 @@
+[ANIMATION_NAME]
+Boss_Hand1_Right_Idle
+
+[ATLAS_TEXTURE]
+Boss_Hand1_Right_Idle
+texture\Boss.png
+
+[FRAME_DATA]
+Frame_Count 5
+
+Frame_Index 0
+Left_Top    3973.820068 3335.899902
+Offset      -4.000000 0.000000
+Slice       348.000000 304.928986
+Duration    0.200000
+
+Frame_Index 1
+Left_Top    4320.759277 3335.903076
+Offset      -1.000000 0.000000
+Slice       330.862915 302.936005
+Duration    0.200000
+
+Frame_Index 2
+Left_Top    4650.629395 3334.178955
+Offset      -1.000000 5.000000
+Slice       332.856049 324.859009
+Duration    0.200000
+
+Frame_Index 3
+Left_Top    4986.947266 3335.903076
+Offset      0.000000 0.000000
+Slice       326.876587 304.928986
+Duration    0.200000
+
+Frame_Index 4
+Left_Top    5319.810059 3335.899902
+Offset      -1.000000 0.000000
+Slice       320.897003 304.928986
+Duration    0.200000
+

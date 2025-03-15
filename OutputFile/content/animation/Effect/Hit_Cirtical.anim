@@ -1,0 +1,76 @@
+[ANIMATION_NAME]
+Hit_Cirtical
+
+[ATLAS_TEXTURE]
+Hit_Cirtical
+texture\Hit_Critical.png
+
+[FRAME_DATA]
+Frame_Count 11
+
+Frame_Index 0
+Left_Top    1.000000 5.000000
+Offset      0.000000 0.000000
+Slice       86.000000 87.000000
+Duration    0.050000
+
+Frame_Index 1
+Left_Top    104.000000 2.000000
+Offset      -1.000000 0.000000
+Slice       108.000000 123.000000
+Duration    0.050000
+
+Frame_Index 2
+Left_Top    210.000000 4.000000
+Offset      -1.000000 0.000000
+Slice       128.000000 141.000000
+Duration    0.050000
+
+Frame_Index 3
+Left_Top    339.000000 1.000000
+Offset      -3.000000 0.000000
+Slice       151.000000 180.000000
+Duration    0.050000
+
+Frame_Index 4
+Left_Top    494.000000 2.000000
+Offset      -4.000000 2.000000
+Slice       161.000000 190.000000
+Duration    0.050000
+
+Frame_Index 5
+Left_Top    2.000000 137.000000
+Offset      0.000000 0.000000
+Slice       169.000000 198.000000
+Duration    0.050000
+
+Frame_Index 6
+Left_Top    166.000000 180.000000
+Offset      -4.000000 -6.000000
+Slice       183.000000 205.000000
+Duration    0.050000
+
+Frame_Index 7
+Left_Top    362.000000 196.000000
+Offset      -3.000000 -4.000000
+Slice       176.000000 207.000000
+Duration    0.050000
+
+Frame_Index 8
+Left_Top    8.000000 400.000000
+Offset      -4.000000 -6.000000
+Slice       181.000000 208.000000
+Duration    0.050000
+
+Frame_Index 9
+Left_Top    259.000000 411.000000
+Offset      -3.000000 -1.000000
+Slice       171.000000 205.000000
+Duration    0.050000
+
+Frame_Index 10
+Left_Top    453.000000 421.000000
+Offset      -4.000000 2.000000
+Slice       172.000000 196.000000
+Duration    0.050000
+

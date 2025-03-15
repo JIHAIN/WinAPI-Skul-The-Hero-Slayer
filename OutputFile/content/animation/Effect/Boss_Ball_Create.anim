@@ -1,0 +1,118 @@
+[ANIMATION_NAME]
+Boss_Ball_Create
+
+[ATLAS_TEXTURE]
+Boss_Ball_Create
+texture\Boss_ball.png
+
+[FRAME_DATA]
+Frame_Count 18
+
+Frame_Index 0
+Left_Top    3.092470 -0.146042
+Offset      0.000000 0.000000
+Slice       171.000000 151.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    192.091995 9.853960
+Offset      0.000000 0.000000
+Slice       189.000000 159.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    401.092010 9.853960
+Offset      0.000000 0.000000
+Slice       213.000000 170.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    636.767029 10.854000
+Offset      0.000000 0.000000
+Slice       229.000000 184.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    883.731018 12.854000
+Offset      0.000000 0.000000
+Slice       235.000000 184.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    1125.579956 23.854000
+Offset      -7.000000 5.000000
+Slice       240.000000 180.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    1385.660034 19.854000
+Offset      -2.000000 1.000000
+Slice       239.000000 179.000000
+Duration    0.100000
+
+Frame_Index 7
+Left_Top    1652.989990 18.854000
+Offset      0.000000 0.000000
+Slice       233.000000 178.000000
+Duration    0.100000
+
+Frame_Index 8
+Left_Top    1922.829956 19.854000
+Offset      0.000000 0.000000
+Slice       215.000000 161.000000
+Duration    0.100000
+
+Frame_Index 9
+Left_Top    2176.780029 22.854000
+Offset      6.000000 -1.000000
+Slice       207.000000 151.000000
+Duration    0.100000
+
+Frame_Index 10
+Left_Top    2386.320068 14.854000
+Offset      0.000000 0.000000
+Slice       214.000000 175.000000
+Duration    0.100000
+
+Frame_Index 11
+Left_Top    411.785004 217.854004
+Offset      1.000000 5.000000
+Slice       192.000000 164.000000
+Duration    0.100000
+
+Frame_Index 12
+Left_Top    186.000000 190.854004
+Offset      2.000000 0.000000
+Slice       195.000000 172.000000
+Duration    0.100000
+
+Frame_Index 13
+Left_Top    406.785004 209.854004
+Offset      0.000000 -5.000000
+Slice       199.000000 156.000000
+Duration    0.100000
+
+Frame_Index 14
+Left_Top    655.918030 207.854004
+Offset      3.000000 -4.000000
+Slice       194.000000 166.000000
+Duration    0.100000
+
+Frame_Index 15
+Left_Top    900.632996 220.854004
+Offset      0.000000 -4.000000
+Slice       178.000000 155.000000
+Duration    0.100000
+
+Frame_Index 16
+Left_Top    1089.380005 230.854004
+Offset      0.000000 2.000000
+Slice       151.000000 149.000000
+Duration    0.100000
+
+Frame_Index 17
+Left_Top    1243.410034 236.854004
+Offset      0.000000 0.000000
+Slice       156.000000 144.000000
+Duration    0.100000
+

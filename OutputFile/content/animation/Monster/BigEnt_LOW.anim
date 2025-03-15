@@ -1,0 +1,34 @@
+[ANIMATION_NAME]
+BigEnt_LOW
+
+[ATLAS_TEXTURE]
+BigEnt_LOW
+texture\FULL_3000.png
+
+[FRAME_DATA]
+Frame_Count 4
+
+Frame_Index 0
+Left_Top    1538.130005 1348.150024
+Offset      4.000000 3.000000
+Slice       228.000000 217.000000
+Duration    0.200000
+
+Frame_Index 1
+Left_Top    1320.130005 1337.150024
+Offset      1.000000 4.000000
+Slice       223.000000 216.000000
+Duration    0.300000
+
+Frame_Index 2
+Left_Top    2424.000000 1342.150024
+Offset      0.000000 -3.000000
+Slice       251.000000 229.000000
+Duration    0.200000
+
+Frame_Index 3
+Left_Top    2670.000000 1343.150024
+Offset      5.000000 -4.000000
+Slice       270.000000 224.000000
+Duration    0.100000
+

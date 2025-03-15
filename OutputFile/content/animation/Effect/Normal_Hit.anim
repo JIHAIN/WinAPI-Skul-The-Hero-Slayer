@@ -1,0 +1,64 @@
+[ANIMATION_NAME]
+Normal_Hit
+
+[ATLAS_TEXTURE]
+Normal_Hit
+texture\Hit_Normal.png
+
+[FRAME_DATA]
+Frame_Count 9
+
+Frame_Index 0
+Left_Top    0.000000 0.000000
+Offset      0.000000 0.000000
+Slice       37.000000 28.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    43.000000 2.000000
+Offset      -4.000000 0.000000
+Slice       65.000000 59.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    115.000000 2.000000
+Offset      -1.000000 0.000000
+Slice       82.000000 73.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    204.000000 2.000000
+Offset      -3.000000 2.000000
+Slice       95.000000 82.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    308.000000 3.000000
+Offset      -1.000000 2.000000
+Slice       96.000000 83.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    422.000000 5.000000
+Offset      -3.000000 3.000000
+Slice       101.000000 86.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    5.000000 96.000000
+Offset      2.000000 -2.000000
+Slice       92.000000 91.000000
+Duration    0.100000
+
+Frame_Index 7
+Left_Top    126.000000 88.000000
+Offset      -1.000000 -1.000000
+Slice       97.000000 93.000000
+Duration    0.100000
+
+Frame_Index 8
+Left_Top    253.000000 98.000000
+Offset      -3.000000 -3.000000
+Slice       97.000000 72.000000
+Duration    0.100000
+

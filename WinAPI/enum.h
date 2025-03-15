@@ -1,0 +1,95 @@
+#pragma once
+
+
+enum class PEN_TYPE
+{
+	RED,
+	GREEN,
+	BLUE,
+	YELLOW,
+	MAGENTA,	
+	END,
+};
+
+
+enum class BRUSH_TYPE
+{
+	RED,
+	BLUE,
+	GREEN,
+	GRAY,
+	SKYBLUE,
+	HOLLOW,
+	END,
+};
+
+enum class LEVEL_TYPE
+{
+	START,
+	STAGE_01,
+	STAGE_02,
+	STAGE_03,
+	STAGE_04,
+	STAGE_05,
+	EIDTOR,
+	END_Level,
+	END,
+};
+
+
+enum class LAYER_TYPE
+{
+	DEFAULT,
+	BACKGROUND,
+	TILE,
+	PLATFORM,
+	FLOOR,
+	DOOR,
+	MONSTER,
+	PLAYER,
+	MONSTER_PROJECTILE,
+	PLAYER_PROJECTILE,
+
+
+	MYUI,
+	MYUIUP,
+	UI = 31,
+	END = 32,
+};
+
+
+enum class TASK_TYPE
+{
+	CREATE_OBJECT, // Param0 : Object Adress, Param1 : LayerType
+	DELETE_OBJECT,
+	CHANGE_LEVEL,
+
+
+};
+
+
+enum class COMPONENT_TYPE
+{
+	COLLIDER,
+	ANIMATOR,
+	RIGIDBODY,
+	TILEMAP,
+	STATE_MACHINE,
+};
+
+enum class DEBUG_SHAPE
+{
+	RECT,
+	CIRCLE,
+	CROSS,
+	LINE,
+	MOUSE,
+};
+
+enum class LOG_LEVEL
+{
+	LOG,	
+	WARNING,
+	BUG,
+
+};

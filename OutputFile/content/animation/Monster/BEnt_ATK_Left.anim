@@ -1,0 +1,70 @@
+[ANIMATION_NAME]
+BEnt_ATK_Left
+
+[ATLAS_TEXTURE]
+BEnt_ATK_Left
+texture\FULL_3000.png
+
+[FRAME_DATA]
+Frame_Count 10
+
+Frame_Index 0
+Left_Top    2826.760010 37.491402
+Offset      -4.000000 8.000000
+Slice       137.000000 119.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    2662.739990 39.491402
+Offset      -4.000000 8.000000
+Slice       141.000000 122.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    2502.739990 35.491402
+Offset      -3.000000 7.000000
+Slice       138.000000 125.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    2339.739990 38.491402
+Offset      -3.000000 9.000000
+Slice       140.000000 118.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    2165.379883 38.491402
+Offset      -7.000000 9.000000
+Slice       154.000000 118.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    2013.380005 32.491402
+Offset      -2.000000 7.000000
+Slice       145.000000 127.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    1839.189941 35.491402
+Offset      -10.000000 7.000000
+Slice       153.000000 120.000000
+Duration    0.100000
+
+Frame_Index 7
+Left_Top    1686.189941 34.491402
+Offset      -4.000000 8.000000
+Slice       147.000000 124.000000
+Duration    0.100000
+
+Frame_Index 8
+Left_Top    1526.189941 37.491402
+Offset      -4.000000 11.000000
+Slice       140.000000 124.000000
+Duration    0.100000
+
+Frame_Index 9
+Left_Top    1353.189941 38.491402
+Offset      -5.000000 13.000000
+Slice       160.000000 126.000000
+Duration    0.100000
+

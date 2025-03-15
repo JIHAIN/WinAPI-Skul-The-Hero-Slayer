@@ -1,0 +1,46 @@
+[ANIMATION_NAME]
+Dark_SkillA_Right
+
+[ATLAS_TEXTURE]
+Dark_SkillA_Right
+texture\Dark_Slayer.png
+
+[FRAME_DATA]
+Frame_Count 6
+
+Frame_Index 0
+Left_Top    9.117250 1986.000000
+Offset      19.000000 -2.000000
+Slice       250.000000 141.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    270.101990 1980.530029
+Offset      23.000000 -8.000000
+Slice       240.000000 141.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    512.833008 1984.530029
+Offset      -1.000000 -8.000000
+Slice       216.000000 132.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    736.632019 1983.530029
+Offset      4.000000 -8.000000
+Slice       211.000000 134.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    951.578979 1982.530029
+Offset      2.000000 -9.000000
+Slice       209.000000 134.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    1167.689941 1979.530029
+Offset      4.000000 -10.000000
+Slice       212.000000 139.000000
+Duration    0.100000
+

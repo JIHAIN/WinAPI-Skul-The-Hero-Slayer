@@ -1,0 +1,16 @@
+[ANIMATION_NAME]
+Ent_Hit_Right
+
+[ATLAS_TEXTURE]
+Ent_Hit_Right
+texture\FULL_3000.png
+
+[FRAME_DATA]
+Frame_Count 1
+
+Frame_Index 0
+Left_Top    55.292999 1473.810059
+Offset      0.000000 20.000000
+Slice       87.000000 121.000000
+Duration    1.000000
+

@@ -1,0 +1,148 @@
+[ANIMATION_NAME]
+BEnt_ATK
+
+[ATLAS_TEXTURE]
+BEnt_ATK
+texture\BlossomEnt_Attack_01.png
+
+[FRAME_DATA]
+Frame_Count 23
+
+Frame_Index 0
+Left_Top    0.000000 52.000000
+Offset      0.000000 0.000000
+Slice       60.000000 44.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    93.000000 35.000000
+Offset      0.000000 0.000000
+Slice       129.000000 74.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    225.000000 0.000000
+Offset      0.000000 0.000000
+Slice       207.000000 119.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    437.000000 2.888180
+Offset      0.000000 0.000000
+Slice       242.000000 136.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    693.546997 0.000000
+Offset      0.000000 0.000000
+Slice       295.000000 170.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    1383.050049 1.888180
+Offset      0.000000 0.000000
+Slice       326.000000 200.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    1008.669983 0.000000
+Offset      0.000000 0.000000
+Slice       354.000000 211.000000
+Duration    0.100000
+
+Frame_Index 7
+Left_Top    4.014070 158.888000
+Offset      0.000000 0.000000
+Slice       369.000000 232.000000
+Duration    0.100000
+
+Frame_Index 8
+Left_Top    419.480011 159.888000
+Offset      0.000000 2.000000
+Slice       387.000000 255.000000
+Duration    0.100000
+
+Frame_Index 9
+Left_Top    832.752014 202.888000
+Offset      2.000000 -1.000000
+Slice       416.000000 261.000000
+Duration    0.100000
+
+Frame_Index 10
+Left_Top    1267.530029 218.888000
+Offset      0.000000 2.000000
+Slice       409.000000 262.000000
+Duration    0.100000
+
+Frame_Index 11
+Left_Top    0.000000 403.622009
+Offset      6.000000 1.000000
+Slice       420.000000 270.000000
+Duration    0.100000
+
+Frame_Index 12
+Left_Top    443.700989 429.622009
+Offset      3.000000 2.000000
+Slice       430.000000 272.000000
+Duration    0.100000
+
+Frame_Index 13
+Left_Top    882.145996 480.989990
+Offset      -3.000000 -1.000000
+Slice       426.000000 269.000000
+Duration    0.100000
+
+Frame_Index 14
+Left_Top    1324.349976 483.989990
+Offset      3.000000 0.000000
+Slice       438.000000 273.000000
+Duration    0.100000
+
+Frame_Index 15
+Left_Top    0.000000 712.293030
+Offset      -4.000000 4.000000
+Slice       437.000000 274.000000
+Duration    0.100000
+
+Frame_Index 16
+Left_Top    460.828003 724.293030
+Offset      1.000000 -1.000000
+Slice       436.000000 283.000000
+Duration    0.100000
+
+Frame_Index 17
+Left_Top    913.992981 765.293030
+Offset      5.000000 0.000000
+Slice       434.000000 265.000000
+Duration    0.100000
+
+Frame_Index 18
+Left_Top    1356.239990 782.293030
+Offset      0.000000 -1.000000
+Slice       444.000000 275.000000
+Duration    0.100000
+
+Frame_Index 19
+Left_Top    0.000000 1023.719971
+Offset      3.000000 3.000000
+Slice       468.000000 284.000000
+Duration    0.100000
+
+Frame_Index 20
+Left_Top    510.105011 1040.719971
+Offset      0.000000 -1.000000
+Slice       448.000000 279.000000
+Duration    0.100000
+
+Frame_Index 21
+Left_Top    1046.410034 1068.030029
+Offset      1.000000 0.000000
+Slice       450.000000 277.000000
+Duration    0.100000
+
+Frame_Index 22
+Left_Top    0.000000 0.000000
+Offset      1.000000 0.000000
+Slice       0.000000 0.000000
+Duration    0.100000
+

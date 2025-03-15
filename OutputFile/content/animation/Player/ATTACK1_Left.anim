@@ -1,0 +1,40 @@
+[ANIMATION_NAME]
+ATTACK1_Left
+
+[ATLAS_TEXTURE]
+ATTACK1_Left
+texture\Skul_Atlase_re.png
+
+[FRAME_DATA]
+Frame_Count 5
+
+Frame_Index 0
+Left_Top    897.541016 801.070984
+Offset      -9.000000 -7.000000
+Slice       86.000000 116.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    789.541016 802.070984
+Offset      -7.000000 -5.000000
+Slice       92.000000 113.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    615.541016 801.070984
+Offset      -26.000000 -13.000000
+Slice       162.000000 144.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    435.540985 802.070984
+Offset      -28.000000 11.000000
+Slice       162.000000 100.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    322.540985 802.070984
+Offset      -2.000000 10.000000
+Slice       101.000000 91.000000
+Duration    0.100000
+

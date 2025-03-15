@@ -1,0 +1,52 @@
+[ANIMATION_NAME]
+Dark_AttackC_Right
+
+[ATLAS_TEXTURE]
+Dark_AttackC_Right
+texture\Dark_Slayer.png
+
+[FRAME_DATA]
+Frame_Count 7
+
+Frame_Index 0
+Left_Top    7.207610 1208.660034
+Offset      15.000000 -6.000000
+Slice       109.000000 125.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    123.208000 1202.660034
+Offset      36.000000 -1.000000
+Slice       162.000000 118.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    280.208008 1195.660034
+Offset      29.000000 -3.000000
+Slice       167.000000 125.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    453.691010 1208.660034
+Offset      30.000000 -4.000000
+Slice       251.000000 140.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    714.849976 1208.660034
+Offset      37.000000 -7.000000
+Slice       247.000000 131.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    968.450012 1206.660034
+Offset      17.000000 -7.000000
+Slice       207.000000 135.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    1182.449951 1204.660034
+Offset      16.000000 -8.000000
+Slice       209.000000 137.000000
+Duration    0.100000
+

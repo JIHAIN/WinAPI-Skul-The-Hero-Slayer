@@ -1,0 +1,28 @@
+[ANIMATION_NAME]
+Dark_Jump_Right
+
+[ATLAS_TEXTURE]
+Dark_Jump_Right
+texture\Dark_Slayer.png
+
+[FRAME_DATA]
+Frame_Count 3
+
+Frame_Index 0
+Left_Top    6.974270 440.000000
+Offset      8.000000 1.000000
+Slice       231.000000 130.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    236.973999 441.000000
+Offset      6.000000 5.000000
+Slice       234.000000 137.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    465.889008 436.000000
+Offset      10.000000 3.000000
+Slice       257.000000 143.000000
+Duration    0.100000
+

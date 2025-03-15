@@ -1,0 +1,34 @@
+[ANIMATION_NAME]
+IDLE_Right
+
+[ATLAS_TEXTURE]
+Skul
+texture\Skul_Atlase.png
+
+[FRAME_DATA]
+Frame_Count 4
+
+Frame_Index 0
+Left_Top    0.000000 0.000000
+Offset      16.000000 -9.000000
+Slice       120.000000 130.000000
+Duration    0.200000
+
+Frame_Index 1
+Left_Top    130.000000 0.000000
+Offset      18.000000 -12.000000
+Slice       110.000000 130.000000
+Duration    0.200000
+
+Frame_Index 2
+Left_Top    250.000000 0.000000
+Offset      13.000000 -9.000000
+Slice       120.000000 130.000000
+Duration    0.200000
+
+Frame_Index 3
+Left_Top    385.000000 0.000000
+Offset      18.000000 -4.000000
+Slice       106.000000 130.000000
+Duration    0.200000
+

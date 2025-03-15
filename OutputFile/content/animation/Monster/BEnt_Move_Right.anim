@@ -1,0 +1,40 @@
+[ANIMATION_NAME]
+BEnt_Move_Right
+
+[ATLAS_TEXTURE]
+BEnt_Move_Right
+texture\Monster_Move2.png
+
+[FRAME_DATA]
+Frame_Count 5
+
+Frame_Index 0
+Left_Top    6.000000 136.000000
+Offset      0.000000 0.000000
+Slice       136.000000 129.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    141.000000 139.000000
+Offset      -1.000000 0.000000
+Slice       136.000000 126.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    287.000000 141.000000
+Offset      2.000000 1.000000
+Slice       135.000000 123.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    427.000000 135.000000
+Offset      -2.000000 0.000000
+Slice       148.000000 130.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    575.000000 136.000000
+Offset      -2.000000 0.000000
+Slice       147.000000 129.000000
+Duration    0.100000
+

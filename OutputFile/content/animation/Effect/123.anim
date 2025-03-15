@@ -1,0 +1,34 @@
+[ANIMATION_NAME]
+123
+
+[ATLAS_TEXTURE]
+123
+texture\0000.png
+
+[FRAME_DATA]
+Frame_Count 4
+
+Frame_Index 0
+Left_Top    23.000000 113.000000
+Offset      0.000000 0.000000
+Slice       149.000000 116.000000
+Duration    1.000000
+
+Frame_Index 1
+Left_Top    24.000000 401.000000
+Offset      0.000000 0.000000
+Slice       118.000000 102.000000
+Duration    1.000000
+
+Frame_Index 2
+Left_Top    52.000000 577.000000
+Offset      0.000000 0.000000
+Slice       98.000000 79.000000
+Duration    1.000000
+
+Frame_Index 3
+Left_Top    243.000000 489.000000
+Offset      0.000000 0.000000
+Slice       132.000000 73.000000
+Duration    1.000000
+

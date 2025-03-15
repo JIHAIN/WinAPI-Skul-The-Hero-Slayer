@@ -1,0 +1,58 @@
+[ANIMATION_NAME]
+Sword_Move_Right
+
+[ATLAS_TEXTURE]
+Sword_Move_Right
+texture\Monster_Move2.png
+
+[FRAME_DATA]
+Frame_Count 8
+
+Frame_Index 0
+Left_Top    3.000000 387.000000
+Offset      4.000000 13.000000
+Slice       105.000000 92.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    110.000000 382.000000
+Offset      7.000000 10.000000
+Slice       107.000000 97.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    211.000000 387.000000
+Offset      5.000000 13.000000
+Slice       115.000000 92.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    326.000000 382.000000
+Offset      0.000000 10.000000
+Slice       85.000000 97.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    417.000000 387.000000
+Offset      5.000000 13.000000
+Slice       86.000000 92.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    504.000000 381.000000
+Offset      3.000000 11.000000
+Slice       88.000000 98.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    594.000000 381.000000
+Offset      5.000000 13.000000
+Slice       87.000000 98.000000
+Duration    0.100000
+
+Frame_Index 7
+Left_Top    685.000000 381.000000
+Offset      7.000000 10.000000
+Slice       91.000000 98.000000
+Duration    0.100000
+

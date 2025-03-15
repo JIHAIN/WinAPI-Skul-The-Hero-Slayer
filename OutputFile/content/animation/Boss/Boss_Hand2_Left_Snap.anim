@@ -1,0 +1,22 @@
+[ANIMATION_NAME]
+Boss_Hand2_Left_Snap
+
+[ATLAS_TEXTURE]
+Boss_Hand2_Left_Snap
+texture\Boss.png
+
+[FRAME_DATA]
+Frame_Count 2
+
+Frame_Index 0
+Left_Top    5619.410156 150.667999
+Offset      0.000000 0.000000
+Slice       276.000000 285.000000
+Duration    0.500000
+
+Frame_Index 1
+Left_Top    5205.100098 141.667999
+Offset      -16.000000 -16.000000
+Slice       392.000000 331.000000
+Duration    0.500000
+

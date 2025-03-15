@@ -1,0 +1,40 @@
+[ANIMATION_NAME]
+Head_Attack1_Right
+
+[ATLAS_TEXTURE]
+Head_Attack1_Right
+texture\Skul_NoHead.png
+
+[FRAME_DATA]
+Frame_Count 5
+
+Frame_Index 0
+Left_Top    1022.719971 37.406300
+Offset      1.000000 -6.000000
+Slice       97.000000 123.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    1122.719971 35.406300
+Offset      -3.000000 -3.000000
+Slice       98.000000 126.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    1222.719971 33.406300
+Offset      14.000000 0.000000
+Slice       167.000000 151.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    1396.719971 37.406300
+Offset      14.000000 10.000000
+Slice       158.000000 105.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    1563.719971 38.406300
+Offset      -1.000000 17.000000
+Slice       105.000000 82.000000
+Duration    0.100000
+

@@ -1,0 +1,28 @@
+[ANIMATION_NAME]
+Mage_IDLE_Left
+
+[ATLAS_TEXTURE]
+Mage_IDLE_Left
+texture\FULL_3000.png
+
+[FRAME_DATA]
+Frame_Count 3
+
+Frame_Index 0
+Left_Top    442.942993 57.546398
+Offset      -10.000000 0.000000
+Slice       103.000000 129.000000
+Duration    1.000000
+
+Frame_Index 1
+Left_Top    670.000000 65.000000
+Offset      -6.000000 0.000000
+Slice       85.000000 131.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    563.942993 57.546398
+Offset      -4.000000 -8.000000
+Slice       92.000000 143.000000
+Duration    1.000000
+

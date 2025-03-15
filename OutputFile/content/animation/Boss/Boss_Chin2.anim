@@ -1,0 +1,34 @@
+[ANIMATION_NAME]
+Boss_Chin2
+
+[ATLAS_TEXTURE]
+Boss_Chin2
+texture\Boss.png
+
+[FRAME_DATA]
+Frame_Count 4
+
+Frame_Index 0
+Left_Top    3323.770020 428.470001
+Offset      0.000000 0.000000
+Slice       289.000000 215.000000
+Duration    1.000000
+
+Frame_Index 1
+Left_Top    3323.770020 428.470001
+Offset      0.000000 5.000000
+Slice       289.000000 215.000000
+Duration    1.000000
+
+Frame_Index 2
+Left_Top    3323.770020 428.470001
+Offset      0.000000 10.000000
+Slice       289.000000 215.000000
+Duration    1.000000
+
+Frame_Index 3
+Left_Top    3323.770020 428.470001
+Offset      0.000000 5.000000
+Slice       289.000000 215.000000
+Duration    1.000000
+

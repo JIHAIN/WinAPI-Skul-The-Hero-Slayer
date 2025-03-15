@@ -1,0 +1,43 @@
+[ANIMATION_NAME]
+Boss_Hand1_Right_Stamping
+[ATLAS_TEXTURE]
+Boss_Hand1_Right_Stamping
+texture\Boss.png
+[FRAME_DATA]
+Frame_Count 7
+Frame_Index 0
+Left_Top    5962.727057 2106.580401
+Offset      0.000000 0.000000
+Slice       360.760150 326.852000
+Duration    0.100000
+Frame_Index 1
+Left_Top    5962.727057 2106.580401
+Offset      -4.000000 -2.000000
+Slice       360.760150 326.852000
+Duration    0.100000
+Frame_Index 2
+Left_Top    5962.727057 2106.580401
+Offset      4.000000 -2.000000
+Slice       360.760150 326.852000
+Duration    0.100000
+Frame_Index 3
+Left_Top    5962.727057 2106.580401
+Offset      2.000000 -5.000000
+Slice       360.760150 326.852000
+Duration    0.100000
+Frame_Index 4
+Left_Top    5962.727057 2106.580401
+Offset      -2.000000 -4.000000
+Slice       360.760150 326.852000
+Duration    0.100000
+Frame_Index 5
+Left_Top    5962.727057 2106.580401
+Offset      -1.000000 4.000000
+Slice       360.760150 326.852000
+Duration    0.100000
+Frame_Index 6
+Left_Top    5962.727057 2106.580401
+Offset      2.000000 -2.000000
+Slice       360.760150 326.852000
+Duration    0.100000
+

@@ -1,0 +1,28 @@
+[ANIMATION_NAME]
+BigEnt_IDLE
+
+[ATLAS_TEXTURE]
+BigEnt_IDLE
+texture\FULL_3000.png
+
+[FRAME_DATA]
+Frame_Count 3
+
+Frame_Index 0
+Left_Top    2207.530029 1346.150024
+Offset      4.000000 1.000000
+Slice       222.000000 216.000000
+Duration    0.200000
+
+Frame_Index 1
+Left_Top    1989.000000 1342.000000
+Offset      7.000000 0.000000
+Slice       220.000000 227.000000
+Duration    0.200000
+
+Frame_Index 2
+Left_Top    1763.000000 1345.000000
+Offset      4.000000 0.000000
+Slice       223.000000 220.000000
+Duration    0.200000
+

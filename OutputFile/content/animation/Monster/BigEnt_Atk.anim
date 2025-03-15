@@ -1,0 +1,52 @@
+[ANIMATION_NAME]
+BigEnt_Atk
+
+[ATLAS_TEXTURE]
+BigEnt_Atk
+texture\FULL_3000.png
+
+[FRAME_DATA]
+Frame_Count 7
+
+Frame_Index 0
+Left_Top    880.065002 1683.770020
+Offset      -1.000000 4.000000
+Slice       272.000000 230.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    10.409400 1688.770020
+Offset      -1.000000 12.000000
+Slice       280.000000 213.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    312.408997 1692.770020
+Offset      0.000000 15.000000
+Slice       251.000000 210.000000
+Duration    0.150000
+
+Frame_Index 3
+Left_Top    588.382996 1690.770020
+Offset      -2.000000 12.000000
+Slice       267.000000 209.000000
+Duration    0.300000
+
+Frame_Index 4
+Left_Top    1181.119995 1687.770020
+Offset      5.000000 13.000000
+Slice       284.000000 205.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    1488.459961 1675.770020
+Offset      5.000000 11.000000
+Slice       288.000000 224.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    1798.000000 1684.000000
+Offset      7.000000 16.000000
+Slice       290.000000 216.000000
+Duration    0.200000
+

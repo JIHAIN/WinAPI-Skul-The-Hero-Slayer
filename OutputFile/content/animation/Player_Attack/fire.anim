@@ -1,0 +1,46 @@
+[ANIMATION_NAME]
+fire
+
+[ATLAS_TEXTURE]
+fire
+texture\fire.png
+
+[FRAME_DATA]
+Frame_Count 6
+
+Frame_Index 0
+Left_Top    0.000000 0.000000
+Offset      0.000000 0.000000
+Slice       85.000000 62.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    85.000000 0.000000
+Offset      0.000000 0.000000
+Slice       97.000000 62.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    180.000000 0.000000
+Offset      0.000000 0.000000
+Slice       100.000000 62.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    280.000000 0.000000
+Offset      0.000000 0.000000
+Slice       110.000000 62.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    390.000000 0.000000
+Offset      0.000000 0.000000
+Slice       110.000000 62.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    500.000000 0.000000
+Offset      0.000000 0.000000
+Slice       110.000000 62.000000
+Duration    0.100000
+

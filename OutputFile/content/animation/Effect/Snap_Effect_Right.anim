@@ -1,0 +1,58 @@
+[ANIMATION_NAME]
+Snap_Effect_Right
+
+[ATLAS_TEXTURE]
+Snap_Effect_Right
+texture\Boss_Snap_Effect1.png
+
+[FRAME_DATA]
+Frame_Count 8
+
+Frame_Index 0
+Left_Top    1.000000 20.000000
+Offset      0.000000 -4.000000
+Slice       286.000000 92.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    4.000000 122.000000
+Offset      -16.000000 -7.000000
+Slice       342.000000 104.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    5.000000 243.000000
+Offset      -8.000000 -44.000000
+Slice       458.000000 186.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    14.000000 437.000000
+Offset      -40.000000 -62.000000
+Slice       429.000000 214.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    6.000000 701.575989
+Offset      0.000000 -68.000000
+Slice       442.000000 224.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    10.000000 935.742004
+Offset      -50.000000 -74.000000
+Slice       396.000000 246.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    460.000000 605.007019
+Offset      -50.000000 -79.000000
+Slice       306.000000 258.000000
+Duration    0.100000
+
+Frame_Index 7
+Left_Top    444.000000 890.124023
+Offset      -50.000000 -99.000000
+Slice       269.000000 297.000000
+Duration    0.100000
+

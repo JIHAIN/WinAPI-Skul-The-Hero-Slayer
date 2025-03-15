@@ -1,0 +1,16 @@
+[ANIMATION_NAME]
+Door_Not
+
+[ATLAS_TEXTURE]
+Door_Not
+texture\Door.png
+
+[FRAME_DATA]
+Frame_Count 1
+
+Frame_Index 0
+Left_Top    0.000000 1781.910034
+Offset      0.000000 0.000000
+Slice       366.000000 262.000000
+Duration    1.000000
+

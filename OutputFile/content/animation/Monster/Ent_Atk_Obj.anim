@@ -1,0 +1,100 @@
+[ANIMATION_NAME]
+Ent_Atk_Obj
+
+[ATLAS_TEXTURE]
+Ent_Atk_Obj
+texture\Ent_Atk_Obj.png
+
+[FRAME_DATA]
+Frame_Count 15
+
+Frame_Index 0
+Left_Top    249.000000 209.000000
+Offset      2.000000 35.000000
+Slice       113.000000 36.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    260.000000 159.000000
+Offset      0.000000 34.000000
+Slice       132.000000 33.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    116.000000 211.000000
+Offset      0.000000 27.000000
+Slice       128.000000 49.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    129.000000 110.000000
+Offset      0.000000 22.000000
+Slice       130.000000 57.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    267.000000 9.000000
+Offset      0.000000 23.000000
+Slice       130.000000 54.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    4.000000 113.000000
+Offset      1.000000 8.000000
+Slice       120.000000 88.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    136.000000 9.000000
+Offset      0.000000 5.000000
+Slice       122.000000 87.000000
+Duration    0.100000
+
+Frame_Index 7
+Left_Top    3.000000 6.000000
+Offset      0.000000 2.000000
+Slice       125.000000 93.000000
+Duration    0.100000
+
+Frame_Index 8
+Left_Top    135.000000 5.000000
+Offset      0.000000 2.000000
+Slice       123.000000 87.000000
+Duration    0.100000
+
+Frame_Index 9
+Left_Top    8.000000 112.000000
+Offset      2.000000 7.000000
+Slice       112.000000 88.000000
+Duration    0.100000
+
+Frame_Index 10
+Left_Top    264.000000 74.000000
+Offset      2.000000 17.000000
+Slice       115.000000 75.000000
+Duration    0.100000
+
+Frame_Index 11
+Left_Top    5.000000 208.000000
+Offset      1.000000 18.000000
+Slice       104.000000 72.000000
+Duration    0.100000
+
+Frame_Index 12
+Left_Top    7.000000 287.000000
+Offset      2.000000 27.000000
+Slice       102.000000 55.000000
+Duration    0.100000
+
+Frame_Index 13
+Left_Top    406.000000 6.000000
+Offset      1.000000 26.000000
+Slice       96.000000 49.000000
+Duration    0.100000
+
+Frame_Index 14
+Left_Top    405.000000 64.000000
+Offset      1.000000 35.000000
+Slice       93.000000 41.000000
+Duration    0.100000
+

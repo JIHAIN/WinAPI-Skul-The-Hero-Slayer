@@ -1,0 +1,58 @@
+[ANIMATION_NAME]
+MOVE_Left
+
+[ATLAS_TEXTURE]
+Skul_Re
+texture\Skul_Atlase_re.png
+
+[FRAME_DATA]
+Frame_Count 8
+
+Frame_Index 0
+Left_Top    0.000000 130.000000
+Offset      -14.000000 -5.000000
+Slice       137.000000 130.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    870.000000 132.000000
+Offset      0.000000 -4.000000
+Slice       130.000000 113.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    750.000000 135.000000
+Offset      2.000000 -4.000000
+Slice       109.000000 116.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    621.000000 130.000000
+Offset      4.000000 -5.000000
+Slice       116.000000 130.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    507.000000 130.000000
+Offset      1.000000 -4.000000
+Slice       100.000000 130.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    400.000000 130.000000
+Offset      6.000000 -7.000000
+Slice       96.000000 120.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    276.000000 130.000000
+Offset      9.000000 -10.000000
+Slice       109.000000 130.000000
+Duration    0.100000
+
+Frame_Index 7
+Left_Top    153.000000 130.000000
+Offset      8.000000 -5.000000
+Slice       108.000000 130.000000
+Duration    0.100000
+

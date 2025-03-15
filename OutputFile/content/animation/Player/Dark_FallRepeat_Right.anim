@@ -1,0 +1,28 @@
+[ANIMATION_NAME]
+Dark_FallRepeat_Right
+
+[ATLAS_TEXTURE]
+Dark_FallRepeat_Right
+texture\Dark_Slayer.png
+
+[FRAME_DATA]
+Frame_Count 3
+
+Frame_Index 0
+Left_Top    8.561980 742.572998
+Offset      0.000000 -3.000000
+Slice       223.000000 112.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    233.561996 742.572998
+Offset      -1.000000 -3.000000
+Slice       222.000000 113.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    463.865997 745.572998
+Offset      -1.000000 0.000000
+Slice       227.000000 113.000000
+Duration    0.100000
+

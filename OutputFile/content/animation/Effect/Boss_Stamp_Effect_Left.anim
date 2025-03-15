@@ -1,0 +1,82 @@
+[ANIMATION_NAME]
+Boss_Stamp_Effect_Left
+
+[ATLAS_TEXTURE]
+Boss_Stamp_Effect_Left
+texture\Boss_Stamp_Effect.png
+
+[FRAME_DATA]
+Frame_Count 12
+
+Frame_Index 0
+Left_Top    3172.600098 1601.000000
+Offset      0.000000 0.000000
+Slice       237.000000 431.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    2787.600098 1513.000000
+Offset      0.000000 -40.000000
+Slice       354.000000 519.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    2352.449951 1474.000000
+Offset      0.000000 -60.000000
+Slice       436.000000 558.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    1831.959961 1433.000000
+Offset      -30.000000 -80.000000
+Slice       481.000000 599.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    1313.250000 1411.000000
+Offset      -20.000000 -90.000000
+Slice       526.000000 621.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    726.155029 1389.000000
+Offset      -30.000000 -100.000000
+Slice       512.000000 643.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    70.232498 1367.000000
+Offset      -33.000000 -111.000000
+Slice       566.000000 665.000000
+Duration    0.100000
+
+Frame_Index 7
+Left_Top    2799.939941 2060.000000
+Offset      -30.000000 -115.000000
+Slice       616.000000 670.000000
+Duration    0.100000
+
+Frame_Index 8
+Left_Top    2170.870117 2053.000000
+Offset      -32.000000 -125.000000
+Slice       603.000000 678.000000
+Duration    0.100000
+
+Frame_Index 9
+Left_Top    1529.270020 2043.000000
+Offset      -30.000000 -122.000000
+Slice       600.000000 688.000000
+Duration    0.100000
+
+Frame_Index 10
+Left_Top    825.700989 2076.000000
+Offset      -30.000000 -130.000000
+Slice       678.000000 655.000000
+Duration    0.100000
+
+Frame_Index 11
+Left_Top    175.501999 2103.000000
+Offset      -30.000000 -132.000000
+Slice       602.000000 628.000000
+Duration    0.100000
+

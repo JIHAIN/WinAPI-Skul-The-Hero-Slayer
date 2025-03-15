@@ -1,0 +1,16 @@
+[ANIMATION_NAME]
+Boss_Head2_Idle
+
+[ATLAS_TEXTURE]
+Boss_Head2_Idle
+texture\Boss.png
+
+[FRAME_DATA]
+Frame_Count 1
+
+Frame_Index 0
+Left_Top    3169.070068 30.841200
+Offset      -10.000000 0.000000
+Slice       530.000000 355.000000
+Duration    1.000000
+

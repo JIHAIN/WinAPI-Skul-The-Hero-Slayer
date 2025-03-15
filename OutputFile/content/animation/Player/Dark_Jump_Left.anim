@@ -1,0 +1,28 @@
+[ANIMATION_NAME]
+Dark_Jump_Left
+
+[ATLAS_TEXTURE]
+Dark_Jump_Left
+texture\Dark_Slayer_Left.png
+
+[FRAME_DATA]
+Frame_Count 3
+
+Frame_Index 0
+Left_Top    2432.199951 441.000000
+Offset      0.000000 0.000000
+Slice       232.000000 132.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    2201.199951 434.203003
+Offset      2.000000 -2.000000
+Slice       230.000000 141.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    1957.199951 437.203003
+Offset      -1.000000 -1.000000
+Slice       240.000000 137.000000
+Duration    0.100000
+

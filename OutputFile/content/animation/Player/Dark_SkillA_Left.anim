@@ -1,0 +1,46 @@
+[ANIMATION_NAME]
+Dark_SkillA_Left
+
+[ATLAS_TEXTURE]
+Dark_SkillA_Left
+texture\Dark_Slayer_Left.png
+
+[FRAME_DATA]
+Frame_Count 6
+
+Frame_Index 0
+Left_Top    2406.639893 1986.000000
+Offset      -22.000000 -1.000000
+Slice       261.000000 143.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    2154.639893 1987.699951
+Offset      -30.000000 -5.000000
+Slice       245.000000 132.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    1937.599976 1982.699951
+Offset      -6.000000 -9.000000
+Slice       218.000000 134.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    1722.560059 1984.699951
+Offset      -6.000000 -8.000000
+Slice       216.000000 132.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    1508.170044 1987.699951
+Offset      -7.000000 -6.000000
+Slice       211.000000 131.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    1296.150024 1985.699951
+Offset      -5.000000 -6.000000
+Slice       207.000000 135.000000
+Duration    0.100000
+

@@ -1,0 +1,34 @@
+[ANIMATION_NAME]
+Sniper_aiming_Left
+
+[ATLAS_TEXTURE]
+Sniper_aiming_Left
+texture\FULL_3000.png
+
+[FRAME_DATA]
+Frame_Count 4
+
+Frame_Index 0
+Left_Top    484.532013 1973.329956
+Offset      -4.000000 -2.000000
+Slice       84.000000 100.000000
+Duration    0.200000
+
+Frame_Index 1
+Left_Top    336.532013 1971.329956
+Offset      -16.000000 4.000000
+Slice       113.000000 93.000099
+Duration    0.200000
+
+Frame_Index 2
+Left_Top    189.531998 1975.329956
+Offset      -8.000000 6.000000
+Slice       123.000000 87.000099
+Duration    0.200000
+
+Frame_Index 3
+Left_Top    35.531898 1973.329956
+Offset      -10.000000 5.000000
+Slice       128.000000 89.000099
+Duration    0.200000
+

@@ -1,0 +1,46 @@
+[ANIMATION_NAME]
+Dark_AttackA_Left
+
+[ATLAS_TEXTURE]
+Dark_AttackA_Left
+texture\Dark_Slayer_Left.png
+
+[FRAME_DATA]
+Frame_Count 6
+
+Frame_Index 0
+Left_Top    2512.139893 878.359009
+Offset      15.000000 -4.000000
+Slice       154.000000 125.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    2359.570068 876.890015
+Offset      9.000000 -4.000000
+Slice       149.000000 124.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    2129.570068 874.890015
+Offset      -20.000000 1.000000
+Slice       229.000000 137.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    1890.660034 873.890015
+Offset      -27.000000 9.000000
+Slice       235.000000 125.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    1729.589966 869.890015
+Offset      6.000000 2.000000
+Slice       165.000000 118.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    1556.589966 874.890015
+Offset      3.000000 5.000000
+Slice       169.000000 115.000000
+Duration    0.100000
+

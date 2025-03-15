@@ -1,0 +1,130 @@
+[ANIMATION_NAME]
+BigEnt_Atk_Obj
+
+[ATLAS_TEXTURE]
+BigEnt_Atk_Obj
+texture\GiganticEnt_Stamp_01.png
+
+[FRAME_DATA]
+Frame_Count 20
+
+Frame_Index 0
+Left_Top    3.000000 3.000000
+Offset      0.000000 0.000000
+Slice       498.000000 108.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    513.000000 5.000000
+Offset      0.000000 0.000000
+Slice       568.000000 106.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    1092.069946 6.000000
+Offset      1.000000 0.000000
+Slice       565.000000 107.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    4.840420 148.000000
+Offset      1.000000 -2.000000
+Slice       556.000000 119.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    594.633972 148.000000
+Offset      0.000000 -2.000000
+Slice       575.000000 118.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    1200.619995 142.000000
+Offset      0.000000 -3.000000
+Slice       559.000000 125.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    6.454620 311.000000
+Offset      2.000000 2.000000
+Slice       577.000000 144.000000
+Duration    0.100000
+
+Frame_Index 7
+Left_Top    603.380005 313.000000
+Offset      -2.000000 -3.000000
+Slice       569.000000 127.000000
+Duration    0.100000
+
+Frame_Index 8
+Left_Top    1194.380005 304.000000
+Offset      0.000000 -7.000000
+Slice       573.000000 141.000000
+Duration    0.100000
+
+Frame_Index 9
+Left_Top    7.722990 473.354004
+Offset      0.000000 -7.000000
+Slice       577.000000 146.000000
+Duration    0.100000
+
+Frame_Index 10
+Left_Top    608.145020 470.354004
+Offset      0.000000 -9.000000
+Slice       572.000000 148.000000
+Duration    0.100000
+
+Frame_Index 11
+Left_Top    1205.729980 470.354004
+Offset      3.000000 -2.000000
+Slice       573.000000 152.000000
+Duration    0.100000
+
+Frame_Index 12
+Left_Top    9.829010 637.354004
+Offset      4.000000 -4.000000
+Slice       572.000000 142.000000
+Duration    0.100000
+
+Frame_Index 13
+Left_Top    604.273987 637.354004
+Offset      0.000000 -6.000000
+Slice       558.000000 153.000000
+Duration    0.100000
+
+Frame_Index 14
+Left_Top    1204.530029 644.354004
+Offset      0.000000 -5.000000
+Slice       566.000000 150.000000
+Duration    0.100000
+
+Frame_Index 15
+Left_Top    12.149700 815.018982
+Offset      -3.000000 -2.000000
+Slice       568.000000 152.000000
+Duration    0.100000
+
+Frame_Index 16
+Left_Top    624.158997 813.018982
+Offset      0.000000 0.000000
+Slice       527.000000 159.000000
+Duration    0.100000
+
+Frame_Index 17
+Left_Top    1193.969971 824.018982
+Offset      0.000000 0.000000
+Slice       460.000000 133.000000
+Duration    0.100000
+
+Frame_Index 18
+Left_Top    19.486200 989.018982
+Offset      0.000000 0.000000
+Slice       261.000000 100.000000
+Duration    0.100000
+
+Frame_Index 19
+Left_Top    338.485992 984.018982
+Offset      0.000000 0.000000
+Slice       271.000000 110.000000
+Duration    0.100000
+

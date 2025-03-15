@@ -1,0 +1,1268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Default">
+      <UniqueIdentifier>{63561e07-ccf5-43d5-95f1-dc3d7fcffaf3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{30319835-5d72-4238-9015-52255fdbedbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\01. Header">
+      <UniqueIdentifier>{bbe62329-6c31-48b9-aa7f-764fe3072f4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\02. Engine">
+      <UniqueIdentifier>{16f95c8e-ba10-46c8-ad23-c45798018363}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager">
+      <UniqueIdentifier>{afb3a8a8-47cd-4cd0-bc39-4e9030d0bea9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\01. TimeMgr">
+      <UniqueIdentifier>{750ca2ae-77b9-4651-987b-bc0f0a9ee4e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Base">
+      <UniqueIdentifier>{c6be3b12-8419-45cf-9fa8-0b0ee94fa325}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object">
+      <UniqueIdentifier>{b2b1c9bd-f3a4-4a7a-b2e9-167e7e67cb05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. Level">
+      <UniqueIdentifier>{72d6c776-e334-4073-865f-f808bb073405}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\01. Player">
+      <UniqueIdentifier>{b91b6516-fa76-4bd8-897a-f89da4afb32c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster">
+      <UniqueIdentifier>{a6b2551f-13fb-44b8-aa99-847e1a852f8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\02. KeyMgr">
+      <UniqueIdentifier>{9c1dd743-14a5-4488-8742-64fcde4e7d83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\03. LevelMgr">
+      <UniqueIdentifier>{d8384adb-fbc8-41bc-b238-aacbc9adfd8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\03. Missile">
+      <UniqueIdentifier>{9d1d5ff5-80bf-45b1-a9af-01a110ff1284}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\07. TaskMgr">
+      <UniqueIdentifier>{b990b169-0336-4bdf-9334-660d2194eb5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\07. Asset">
+      <UniqueIdentifier>{0d349009-d8fb-4bcc-a31f-6d55f6350c4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\07. Asset\01. Texture">
+      <UniqueIdentifier>{4594154a-d1d5-4bc1-b9e3-884157ec1a3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\07. Asset\02. Sound">
+      <UniqueIdentifier>{b276fdcb-3eb0-497c-88b7-5a3b194525a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\06. PathMgr">
+      <UniqueIdentifier>{b14455c7-2ebe-40a0-bb27-85caa46e083d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\04. AssetMgr">
+      <UniqueIdentifier>{08cdb866-f5cd-4638-a109-9086101a803d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\06. Component">
+      <UniqueIdentifier>{15aca77f-1fb5-4620-9098-10c422af12df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\06. Component\01. Collider">
+      <UniqueIdentifier>{bac4d85f-b9ea-4ae3-ac9f-e4f564794cba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\06. Component\02. Animator">
+      <UniqueIdentifier>{c3dcb0f3-be66-4bde-a106-4c27f5aa6569}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\06. Component\04. TileMap">
+      <UniqueIdentifier>{d2660b1b-b7be-4bdf-b120-b7a9556defc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\06. Component\03. RigidBody">
+      <UniqueIdentifier>{b5a25d21-1903-4978-b974-d381f53ebe10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\08. DebugMgr">
+      <UniqueIdentifier>{5f669268-5a33-49d5-adca-f4a74934917b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\08. Module">
+      <UniqueIdentifier>{9a641e9f-5399-4194-b1e0-df0c11faaa9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\09. CollisionMgr">
+      <UniqueIdentifier>{a1d78928-3215-45be-91d5-7e9901ecfa67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\03. Missile\GuidedMissile">
+      <UniqueIdentifier>{c2f09d61-440e-492d-8f96-7e9885c7b39e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\08. Module\Animation">
+      <UniqueIdentifier>{36aa75dd-9b64-4d9d-9520-c12d9d5578b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\04. Force">
+      <UniqueIdentifier>{5d6599a9-4420-461e-9cfa-a6205b42e7ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. Level\01. Start">
+      <UniqueIdentifier>{23ceb3a1-c05f-490e-ac51-dafba05cf684}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\06. Tile">
+      <UniqueIdentifier>{79910ba9-7b86-485f-a8d3-5f866aba8c14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\10. Camera">
+      <UniqueIdentifier>{5af8e73a-de32-46d7-a4cd-a139ea93206d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\03. Missile\CKmissile">
+      <UniqueIdentifier>{8ece3780-19ef-4596-b411-415a49c2b4d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\07. Background">
+      <UniqueIdentifier>{82a9f011-ca98-4c6b-b76b-a14618d1f52b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\08. Attack">
+      <UniqueIdentifier>{f3c0aea5-3e1d-4453-809e-71fc5610b5f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. Level\03. Stage02">
+      <UniqueIdentifier>{07e97929-7a49-411e-995d-ef778a0590b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. Level\04. Stage03">
+      <UniqueIdentifier>{e3f66c7e-bb47-41a6-9615-22e4c1a284ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. Level\02. Stage01">
+      <UniqueIdentifier>{47f8d538-dad6-4e76-b655-a3c7ef288aab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\11. LogMgr">
+      <UniqueIdentifier>{31d09a48-4f00-4d49-8e9a-a8d5e0a8af5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\09. UI">
+      <UniqueIdentifier>{8bd04f73-8d99-4205-9278-4ddcde495542}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\12.UIMgr">
+      <UniqueIdentifier>{ec7e68c6-2e19-4a10-a63a-bf73636847a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\09. UI\CBtnUI">
+      <UniqueIdentifier>{136e3351-a766-48c9-9d18-f1bae98d4c7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\09. UI\Panel">
+      <UniqueIdentifier>{63fef1bd-9d4f-47db-8a91-a7681d2380a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\13. SoundMgr">
+      <UniqueIdentifier>{79bbd249-2eeb-43a9-a193-b95fc4b878b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\10. EditObj">
+      <UniqueIdentifier>{36bee80c-9d80-4d82-84ae-61eef2a4467a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\08. Module\State">
+      <UniqueIdentifier>{a725006f-8959-4c54-afe6-888b6eb1faf4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\06. Component\05. StateMachine">
+      <UniqueIdentifier>{1a6fbe25-c969-42c3-9e40-38bfc9a58539}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\10. EditObj\Ani">
+      <UniqueIdentifier>{fd461331-d04b-44ff-9857-72db54da9018}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\10. EditObj\Text">
+      <UniqueIdentifier>{fc50821a-bf6d-4f32-86cb-6b58d0e3fe83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. Level\05. Stage04">
+      <UniqueIdentifier>{6171cf12-fca3-4151-9830-282e5897d623}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. Level\06. Stage05">
+      <UniqueIdentifier>{88a7a2a3-1431-42ee-bee6-c996190bc24a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. Level\07. Editor">
+      <UniqueIdentifier>{3a2ced37-38d3-4fb3-9a01-365ec6b9e25b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\01. Player\Player_Attack">
+      <UniqueIdentifier>{c000d1c5-3d90-4a2c-8e21-516c91068650}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\나무 엔트">
+      <UniqueIdentifier>{d72fd8ab-7ebd-4381-ab38-367da6c925c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\벚꽃 엔트">
+      <UniqueIdentifier>{7c5bdf65-eb5a-4f34-a827-01e50ba89f93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\저격수">
+      <UniqueIdentifier>{a0a66b9c-99de-4ab9-94df-36dc43d23ed2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\기사">
+      <UniqueIdentifier>{0eb333fb-3b6f-457f-b679-c93b1091b170}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\마법사">
+      <UniqueIdentifier>{06260624-b38a-442d-8a12-364f3dad0412}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\거대엔트">
+      <UniqueIdentifier>{542d8758-cca6-4f46-9270-5ad08803591a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\나무 엔트\Ent_Atk">
+      <UniqueIdentifier>{1b3d0442-4b46-4d58-b6c9-95dbf05e936a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\01. Player\Player_Head">
+      <UniqueIdentifier>{d0772d2e-e473-4f28-991a-7ebf61281da1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\05. Platform">
+      <UniqueIdentifier>{0e62862f-a904-4072-b1b5-1af1429236d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\05. Platform\floor">
+      <UniqueIdentifier>{41fa4f59-6927-4b75-8c68-bb4cb123d828}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\기사\Sword_Idle_State">
+      <UniqueIdentifier>{740aec03-bb18-43c1-824c-b88d80a351ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\기사\Sword_Trace_State">
+      <UniqueIdentifier>{b8a5e2e9-c813-4a54-9519-69b5be2f9bef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\나무 엔트\Ent_Trace_State">
+      <UniqueIdentifier>{2a09b22e-83ba-47dd-86c3-a142c64b863f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\나무 엔트\Ent_Idle_State">
+      <UniqueIdentifier>{dde12093-95b5-4dab-9747-412af7f8597d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\나무 엔트\Ent_Attack_State">
+      <UniqueIdentifier>{61aaa6fd-a63f-4b5e-97d1-271012ab936c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\기사\Sword_Attack_State">
+      <UniqueIdentifier>{fa671b75-20d1-4a69-98a9-3bb449e162dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\거대엔트\BigEnt_Idle_State">
+      <UniqueIdentifier>{22974cdd-6cad-4fbe-a91d-be2f899f102b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\거대엔트\BigEnt_Trace_State">
+      <UniqueIdentifier>{d8ec8d42-2350-4ac5-bad9-dccc83e3cea2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\거대엔트\BigEnt_Attack_State">
+      <UniqueIdentifier>{8ec14d4c-1ff0-48b1-992d-59afd2521be1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\거대엔트\BigEnt_Atk">
+      <UniqueIdentifier>{359aa8f6-018b-47c3-9cb6-fada37e40d20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\기사\Sword_Atk">
+      <UniqueIdentifier>{7cb7a6b6-7a1a-4ee2-9346-ead199662b55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\마법사\Mage_Idle_State">
+      <UniqueIdentifier>{fc08f0c2-81df-4542-9478-0b50372d733b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\마법사\Mage_Trace_State">
+      <UniqueIdentifier>{d8ed9bee-5715-426e-b7e5-55b6373aa6fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\마법사\Mage_Attack_State">
+      <UniqueIdentifier>{d8d98950-a09e-4fb4-99d2-8081ec4c329f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\마법사\Mage_Atk">
+      <UniqueIdentifier>{9cdc281d-cb4d-493a-ba7b-c165ad6a5882}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\벚꽃 엔트\BEnt_Idle_State">
+      <UniqueIdentifier>{0a878056-1b88-40e9-8956-d0269515ec79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\벚꽃 엔트\BEnt_Trace_State">
+      <UniqueIdentifier>{5d19dc88-6679-4748-9b5c-aea9cde32f21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\벚꽃 엔트\BEnt_Attack_State">
+      <UniqueIdentifier>{a312545b-8761-4154-af44-aeff69e91221}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\벚꽃 엔트\BEnt_Atk">
+      <UniqueIdentifier>{c4372bbf-2e2d-45d7-be9c-1854f5b44cb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\저격수\Sniper_Idle_State">
+      <UniqueIdentifier>{c3634eb2-116d-447a-9785-b61495a32a1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\저격수\Sniper_Trace_State">
+      <UniqueIdentifier>{1d2a711e-d443-4c9f-8131-b458b2e4259e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\저격수\Sniper_Attack_State">
+      <UniqueIdentifier>{4789c43a-023d-4c21-b344-bbd648850ee0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02. Monster\저격수\Sniper_Atk">
+      <UniqueIdentifier>{d12245e5-346b-4d70-a7d3-e196bb0ba39a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\01. Player\Player_State">
+      <UniqueIdentifier>{a2a20a4a-8182-4be0-b63f-8a55cee6e430}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\01. Player\Player_State\Dash_Jump">
+      <UniqueIdentifier>{fe94a4be-6d1f-46ab-a62b-100c39be5e5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\01. Player\Player_State\Attack">
+      <UniqueIdentifier>{81e45615-18f3-4be5-bf97-4f79360c4fa0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\01. Player\Player_State\Move">
+      <UniqueIdentifier>{96e0f68e-295c-42be-b617-91b920fd982f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02-1. Boss Monster">
+      <UniqueIdentifier>{bb7b0fab-fc28-458c-b7e7-69787a32238a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02-1. Boss Monster\Boss_State">
+      <UniqueIdentifier>{e02797c0-8296-4928-a54b-da7439e21d46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02-1. Boss Monster\Boss_State\Stamp">
+      <UniqueIdentifier>{4f05dc0f-b0d2-415e-a1f1-dcd0151fdf2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02-1. Boss Monster\Boss_State\IDle">
+      <UniqueIdentifier>{a840b57a-c5d5-47d0-a0dc-9cddf033ee78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02-1. Boss Monster\Boss_State\Snap">
+      <UniqueIdentifier>{2b2fd809-4451-4ffb-96bc-b4b5b58fc15d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\10. EditObj\Effect">
+      <UniqueIdentifier>{148ad2eb-6a29-421a-a509-7bd9f7283dc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02-1. Boss Monster\Boss_Part">
+      <UniqueIdentifier>{1104510d-1d3e-42ea-ba5a-f265425de303}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02-1. Boss Monster\Boss_Part\Boss_Body">
+      <UniqueIdentifier>{42f4d694-be8f-44df-a527-d6e1a5c26f7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02-1. Boss Monster\Boss_Part\BossLeft">
+      <UniqueIdentifier>{77ab6dad-dae3-4c9b-96ab-5b5afaad4f44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02-1. Boss Monster\Boss_Part\BossRight">
+      <UniqueIdentifier>{3ed8e0a4-16bb-4bc9-9eb6-6aeedf9f5341}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02-1. Boss Monster\Boss_Part\BossChin">
+      <UniqueIdentifier>{8b6ab774-04c3-46e8-97ac-51f25a16d534}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02-1. Boss Monster\Boss_State\Ball">
+      <UniqueIdentifier>{5f6d7bda-5609-411b-a82b-f5b8a208f212}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\02-1. Boss Monster\Boss_Ball_Obj">
+      <UniqueIdentifier>{3c6ad596-0863-4b91-a2bc-02b596102cd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\01. Player\Player_Effect">
+      <UniqueIdentifier>{88225380-c8da-415d-abbc-a40bc5e98f62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\05. Platform\Monster_wall">
+      <UniqueIdentifier>{68a19475-c590-4c59-8752-e395aa9bbd30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\Game_UI">
+      <UniqueIdentifier>{1f926242-a85b-49fe-b0db-ba90bebc7161}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\05. Platform\Door_1">
+      <UniqueIdentifier>{d1b44584-ff9d-4944-ac7b-8fcc715f6d17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\01. Player\Player_State\Attack\Dark_wavse">
+      <UniqueIdentifier>{e23ab9f1-41f8-4bd3-8ec3-26873bd4a08f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\01. Player\Player_Attack\Dark_Attack">
+      <UniqueIdentifier>{8f05d256-9c82-4803-a8b0-27754c07bf7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\Game_UI\Player_UI">
+      <UniqueIdentifier>{bf6e63db-fbc4-4a82-9cec-54539ca04eb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\Game_UI\Player_UI\HPbar">
+      <UniqueIdentifier>{b27a7c7e-b13a-41a2-bc0f-1c0eb0bb6871}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\Game_UI\Player_UI\Player_Imge">
+      <UniqueIdentifier>{6737aa8a-1445-4258-81ee-81685832aca9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\Game_UI\Player_UI\Player_Imge\Player_Skill">
+      <UniqueIdentifier>{e0bdc9c0-129d-4e95-9095-42d90aa376f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\Game_UI\Boss_UI">
+      <UniqueIdentifier>{594fe198-44a0-489d-8c84-abe811b19997}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\Game_UI\Boss_UI\Boss_HP">
+      <UniqueIdentifier>{9e63176e-6233-4be2-89d1-ef4e384463f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\Game_UI\Boss_UI\Boss_Name">
+      <UniqueIdentifier>{679273d9-b6d2-4a0f-a3ff-23bc060e3f53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. Level\01. Start\END_LEVEL">
+      <UniqueIdentifier>{566f1e61-5927-41d7-a2fb-4e07a3cffd55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\01. Player\Player_Attack\Dark_Attack\Dark_BAck">
+      <UniqueIdentifier>{54e909d6-16eb-4f09-a0ec-bd63ad82fe93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Object\Game_UI\Player_UI\Player_Imge\Player_Skill\sibar">
+      <UniqueIdentifier>{66ef728c-3e5c-46ee-be90-eafb5231a03d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>Default</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Default</Filter>
+    </ClInclude>
+    <ClInclude Include="WinAPI.h">
+      <Filter>Default</Filter>
+    </ClInclude>
+    <ClInclude Include="CEngine.h">
+      <Filter>Game\02. Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="define.h">
+      <Filter>Game\01. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="struct.h">
+      <Filter>Game\01. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="func.h">
+      <Filter>Game\01. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="global.h">
+      <Filter>Game\01. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Default</Filter>
+    </ClInclude>
+    <ClInclude Include="enum.h">
+      <Filter>Game\01. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="CTimeMgr.h">
+      <Filter>Game\03. Manager\01. TimeMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CBase.h">
+      <Filter>Game\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="CObj.h">
+      <Filter>Game\05. Object</Filter>
+    </ClInclude>
+    <ClInclude Include="CLevel.h">
+      <Filter>Game\04. Level</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayer.h">
+      <Filter>Game\05. Object\01. Player</Filter>
+    </ClInclude>
+    <ClInclude Include="CMonster.h">
+      <Filter>Game\05. Object\02. Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="CKeyMgr.h">
+      <Filter>Game\03. Manager\02. KeyMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CLevelMgr.h">
+      <Filter>Game\03. Manager\03. LevelMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CMissile.h">
+      <Filter>Game\05. Object\03. Missile</Filter>
+    </ClInclude>
+    <ClInclude Include="CTaskMgr.h">
+      <Filter>Game\03. Manager\07. TaskMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CAsset.h">
+      <Filter>Game\07. Asset</Filter>
+    </ClInclude>
+    <ClInclude Include="CTexture.h">
+      <Filter>Game\07. Asset\01. Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="CPathMgr.h">
+      <Filter>Game\03. Manager\06. PathMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CAssetMgr.h">
+      <Filter>Game\03. Manager\04. AssetMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CComponent.h">
+      <Filter>Game\06. Component</Filter>
+    </ClInclude>
+    <ClInclude Include="CCollider.h">
+      <Filter>Game\06. Component\01. Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="CDebugMgr.h">
+      <Filter>Game\03. Manager\08. DebugMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CSelectObject.h">
+      <Filter>Game\08. Module</Filter>
+    </ClInclude>
+    <ClInclude Include="CCollisionMgr.h">
+      <Filter>Game\03. Manager\09. CollisionMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CGuidedMissile.h">
+      <Filter>Game\05. Object\03. Missile\GuidedMissile</Filter>
+    </ClInclude>
+    <ClInclude Include="CAnimator.h">
+      <Filter>Game\06. Component\02. Animator</Filter>
+    </ClInclude>
+    <ClInclude Include="CAnim.h">
+      <Filter>Game\08. Module\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="CRigidBody.h">
+      <Filter>Game\06. Component\03. RigidBody</Filter>
+    </ClInclude>
+    <ClInclude Include="CForce.h">
+      <Filter>Game\05. Object\04. Force</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlatform.h">
+      <Filter>Game\05. Object\05. Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="CTileMap.h">
+      <Filter>Game\06. Component\04. TileMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CTile.h">
+      <Filter>Game\05. Object\06. Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="CCamera.h">
+      <Filter>Game\03. Manager\10. Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="CKiMissile.h">
+      <Filter>Game\05. Object\03. Missile\CKmissile</Filter>
+    </ClInclude>
+    <ClInclude Include="CBackground.h">
+      <Filter>Game\05. Object\07. Background</Filter>
+    </ClInclude>
+    <ClInclude Include="CAttack.h">
+      <Filter>Game\05. Object\08. Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="CLevel_Start.h">
+      <Filter>Game\04. Level\01. Start</Filter>
+    </ClInclude>
+    <ClInclude Include="CLevel_Editor.h">
+      <Filter>Game\04. Level\07. Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="CLogMgr.h">
+      <Filter>Game\03. Manager\11. LogMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CUI.h">
+      <Filter>Game\05. Object\09. UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIMgr.h">
+      <Filter>Game\03. Manager\12.UIMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CBtnUI.h">
+      <Filter>Game\05. Object\09. UI\CBtnUI</Filter>
+    </ClInclude>
+    <ClInclude Include="CPanel.h">
+      <Filter>Game\05. Object\09. UI\Panel</Filter>
+    </ClInclude>
+    <ClInclude Include="CSound.h">
+      <Filter>Game\07. Asset\02. Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="CSoundMgr.h">
+      <Filter>Game\03. Manager\13. SoundMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CStateMachine.h">
+      <Filter>Game\06. Component\05. StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="CState.h">
+      <Filter>Game\08. Module\State</Filter>
+    </ClInclude>
+    <ClInclude Include="Ent_Idle_State.h">
+      <Filter>Game\05. Object\02. Monster\나무 엔트\Ent_Idle_State</Filter>
+    </ClInclude>
+    <ClInclude Include="Ent_Atk_State.h">
+      <Filter>Game\05. Object\02. Monster\나무 엔트\Ent_Attack_State</Filter>
+    </ClInclude>
+    <ClInclude Include="Ent_Trace_State.h">
+      <Filter>Game\05. Object\02. Monster\나무 엔트\Ent_Trace_State</Filter>
+    </ClInclude>
+    <ClInclude Include="CEditTextObj.h">
+      <Filter>Game\05. Object\10. EditObj\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="CEditAniObj.h">
+      <Filter>Game\05. Object\10. EditObj\Ani</Filter>
+    </ClInclude>
+    <ClInclude Include="CLevel_Stage01.h">
+      <Filter>Game\04. Level\02. Stage01</Filter>
+    </ClInclude>
+    <ClInclude Include="Cfloor.h">
+      <Filter>Game\05. Object\05. Platform\floor</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayer_Normal_Attack.h">
+      <Filter>Game\05. Object\01. Player\Player_Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="Ent_Monster.h">
+      <Filter>Game\05. Object\02. Monster\나무 엔트</Filter>
+    </ClInclude>
+    <ClInclude Include="BEnt_Monster.h">
+      <Filter>Game\05. Object\02. Monster\벚꽃 엔트</Filter>
+    </ClInclude>
+    <ClInclude Include="Sniper_Monster.h">
+      <Filter>Game\05. Object\02. Monster\저격수</Filter>
+    </ClInclude>
+    <ClInclude Include="Sword_Monster.h">
+      <Filter>Game\05. Object\02. Monster\기사</Filter>
+    </ClInclude>
+    <ClInclude Include="Mage_Monster.h">
+      <Filter>Game\05. Object\02. Monster\마법사</Filter>
+    </ClInclude>
+    <ClInclude Include="BigEnt_Monster.h">
+      <Filter>Game\05. Object\02. Monster\거대엔트</Filter>
+    </ClInclude>
+    <ClInclude Include="Ent_Atk.h">
+      <Filter>Game\05. Object\02. Monster\나무 엔트\Ent_Atk</Filter>
+    </ClInclude>
+    <ClInclude Include="CSkullHead.h">
+      <Filter>Game\05. Object\01. Player\Player_Head</Filter>
+    </ClInclude>
+    <ClInclude Include="Sniper_Idle_State.h">
+      <Filter>Game\05. Object\02. Monster\저격수\Sniper_Idle_State</Filter>
+    </ClInclude>
+    <ClInclude Include="Sniper_Trace_State.h">
+      <Filter>Game\05. Object\02. Monster\저격수\Sniper_Trace_State</Filter>
+    </ClInclude>
+    <ClInclude Include="Sniper_Attack_State.h">
+      <Filter>Game\05. Object\02. Monster\저격수\Sniper_Attack_State</Filter>
+    </ClInclude>
+    <ClInclude Include="BEnt_Idle_State.h">
+      <Filter>Game\05. Object\02. Monster\벚꽃 엔트\BEnt_Idle_State</Filter>
+    </ClInclude>
+    <ClInclude Include="BEnt_Trace_State.h">
+      <Filter>Game\05. Object\02. Monster\벚꽃 엔트\BEnt_Trace_State</Filter>
+    </ClInclude>
+    <ClInclude Include="BEnt_Attack_State.h">
+      <Filter>Game\05. Object\02. Monster\벚꽃 엔트\BEnt_Attack_State</Filter>
+    </ClInclude>
+    <ClInclude Include="Mage_Idle_State.h">
+      <Filter>Game\05. Object\02. Monster\마법사\Mage_Idle_State</Filter>
+    </ClInclude>
+    <ClInclude Include="Mage_Trace_State.h">
+      <Filter>Game\05. Object\02. Monster\마법사\Mage_Trace_State</Filter>
+    </ClInclude>
+    <ClInclude Include="Mage_Attack_State.h">
+      <Filter>Game\05. Object\02. Monster\마법사\Mage_Attack_State</Filter>
+    </ClInclude>
+    <ClInclude Include="Sword_Idle_State.h">
+      <Filter>Game\05. Object\02. Monster\기사\Sword_Idle_State</Filter>
+    </ClInclude>
+    <ClInclude Include="Sword_Trace_State.h">
+      <Filter>Game\05. Object\02. Monster\기사\Sword_Trace_State</Filter>
+    </ClInclude>
+    <ClInclude Include="Sword_Attack_State.h">
+      <Filter>Game\05. Object\02. Monster\기사\Sword_Attack_State</Filter>
+    </ClInclude>
+    <ClInclude Include="BigEnt_Idle_State.h">
+      <Filter>Game\05. Object\02. Monster\거대엔트\BigEnt_Idle_State</Filter>
+    </ClInclude>
+    <ClInclude Include="BigEnt_Trace_State.h">
+      <Filter>Game\05. Object\02. Monster\거대엔트\BigEnt_Trace_State</Filter>
+    </ClInclude>
+    <ClInclude Include="BigEnt_Attack_State.h">
+      <Filter>Game\05. Object\02. Monster\거대엔트\BigEnt_Attack_State</Filter>
+    </ClInclude>
+    <ClInclude Include="BEnt_Atk.h">
+      <Filter>Game\05. Object\02. Monster\벚꽃 엔트\BEnt_Atk</Filter>
+    </ClInclude>
+    <ClInclude Include="Mage_Atk.h">
+      <Filter>Game\05. Object\02. Monster\마법사\Mage_Atk</Filter>
+    </ClInclude>
+    <ClInclude Include="BigEnt_Atk.h">
+      <Filter>Game\05. Object\02. Monster\거대엔트\BigEnt_Atk</Filter>
+    </ClInclude>
+    <ClInclude Include="Attack1_State.h">
+      <Filter>Game\05. Object\01. Player\Player_State\Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="Attack2_State.h">
+      <Filter>Game\05. Object\01. Player\Player_State\Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="Dash_State.h">
+      <Filter>Game\05. Object\01. Player\Player_State\Dash_Jump</Filter>
+    </ClInclude>
+    <ClInclude Include="Jump_State.h">
+      <Filter>Game\05. Object\01. Player\Player_State\Dash_Jump</Filter>
+    </ClInclude>
+    <ClInclude Include="Fall_State.h">
+      <Filter>Game\05. Object\01. Player\Player_State\Dash_Jump</Filter>
+    </ClInclude>
+    <ClInclude Include="Upfall_State.h">
+      <Filter>Game\05. Object\01. Player\Player_State\Dash_Jump</Filter>
+    </ClInclude>
+    <ClInclude Include="Left_State.h">
+      <Filter>Game\05. Object\01. Player\Player_State\Move</Filter>
+    </ClInclude>
+    <ClInclude Include="Right_State.h">
+      <Filter>Game\05. Object\01. Player\Player_State\Move</Filter>
+    </ClInclude>
+    <ClInclude Include="LeftIdle_State.h">
+      <Filter>Game\05. Object\01. Player\Player_State\Move</Filter>
+    </ClInclude>
+    <ClInclude Include="RightIdle_State.h">
+      <Filter>Game\05. Object\01. Player\Player_State\Move</Filter>
+    </ClInclude>
+    <ClInclude Include="JumpAtk_State.h">
+      <Filter>Game\05. Object\01. Player\Player_State\Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss_Monster.h">
+      <Filter>Game\05. Object\02-1. Boss Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="BossRight.h">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_Part\BossRight</Filter>
+    </ClInclude>
+    <ClInclude Include="BossLeft.h">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_Part\BossLeft</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss_Chin.h">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_Part\BossChin</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss_Body.h">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_Part\Boss_Body</Filter>
+    </ClInclude>
+    <ClInclude Include="Stamp_End_State.h">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_State\Stamp</Filter>
+    </ClInclude>
+    <ClInclude Include="Stamp_Enter_State.h">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_State\Stamp</Filter>
+    </ClInclude>
+    <ClInclude Include="Stamping_State.h">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_State\Stamp</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss_Idle.h">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_State\IDle</Filter>
+    </ClInclude>
+    <ClInclude Include="Snap_Enter_State.h">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_State\Snap</Filter>
+    </ClInclude>
+    <ClInclude Include="Snap_End_State.h">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_State\Snap</Filter>
+    </ClInclude>
+    <ClInclude Include="Snaping_State.h">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_State\Snap</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect_Obj.h">
+      <Filter>Game\05. Object\10. EditObj\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CLevel_Stage02.h">
+      <Filter>Game\04. Level\03. Stage02</Filter>
+    </ClInclude>
+    <ClInclude Include="CLevel_Stage03.h">
+      <Filter>Game\04. Level\04. Stage03</Filter>
+    </ClInclude>
+    <ClInclude Include="CLevel_Stage04.h">
+      <Filter>Game\04. Level\05. Stage04</Filter>
+    </ClInclude>
+    <ClInclude Include="CLevel_Stage05.h">
+      <Filter>Game\04. Level\06. Stage05</Filter>
+    </ClInclude>
+    <ClInclude Include="Ball_Enter_State.h">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_State\Ball</Filter>
+    </ClInclude>
+    <ClInclude Include="Balling_State.h">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_State\Ball</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss_Effect.h">
+      <Filter>Game\05. Object\10. EditObj\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss_Ball_Obj.h">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_Ball_Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss_Ball_Create.h">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_Ball_Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="Sniper_Atk.h">
+      <Filter>Game\05. Object\02. Monster\저격수\Sniper_Atk</Filter>
+    </ClInclude>
+    <ClInclude Include="Sword_Atk_Obj.h">
+      <Filter>Game\05. Object\02. Monster\기사\Sword_Atk</Filter>
+    </ClInclude>
+    <ClInclude Include="Dash_Effect.h">
+      <Filter>Game\05. Object\01. Player\Player_Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Jump_Effect.h">
+      <Filter>Game\05. Object\01. Player\Player_Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster_Wall.h">
+      <Filter>Game\05. Object\05. Platform\Monster_wall</Filter>
+    </ClInclude>
+    <ClInclude Include="Door_1.h">
+      <Filter>Game\05. Object\05. Platform\Door_1</Filter>
+    </ClInclude>
+    <ClInclude Include="HP_Bar.h">
+      <Filter>Game\05. Object\Game_UI\Player_UI\HPbar</Filter>
+    </ClInclude>
+    <ClInclude Include="Player_Imge.h">
+      <Filter>Game\05. Object\Game_UI\Player_UI\Player_Imge</Filter>
+    </ClInclude>
+    <ClInclude Include="Attack3_State.h">
+      <Filter>Game\05. Object\01. Player\Player_State\Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="Dark_Attack.h">
+      <Filter>Game\05. Object\01. Player\Player_Attack\Dark_Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="Dark_Waves.h">
+      <Filter>Game\05. Object\01. Player\Player_State\Attack\Dark_wavse</Filter>
+    </ClInclude>
+    <ClInclude Include="Ent_Hit_State.h">
+      <Filter>Game\05. Object\02. Monster\나무 엔트\Ent_Idle_State</Filter>
+    </ClInclude>
+    <ClInclude Include="Sword_Hit_State.h">
+      <Filter>Game\05. Object\02. Monster\기사\Sword_Idle_State</Filter>
+    </ClInclude>
+    <ClInclude Include="BigEnt_Hit_State.h">
+      <Filter>Game\05. Object\02. Monster\거대엔트\BigEnt_Idle_State</Filter>
+    </ClInclude>
+    <ClInclude Include="Mage_Hit_State.h">
+      <Filter>Game\05. Object\02. Monster\마법사\Mage_Idle_State</Filter>
+    </ClInclude>
+    <ClInclude Include="BEnt_Hit_State.h">
+      <Filter>Game\05. Object\02. Monster\벚꽃 엔트\BEnt_Idle_State</Filter>
+    </ClInclude>
+    <ClInclude Include="Sniper_Hit_State.h">
+      <Filter>Game\05. Object\02. Monster\저격수\Sniper_Idle_State</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss_Door.h">
+      <Filter>Game\05. Object\05. Platform\Door_1</Filter>
+    </ClInclude>
+    <ClInclude Include="Player_Effect.h">
+      <Filter>Game\05. Object\01. Player\Player_Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Player_Skill.h">
+      <Filter>Game\05. Object\Game_UI\Player_UI\Player_Imge\Player_Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="Player_Skill2.h">
+      <Filter>Game\05. Object\Game_UI\Player_UI\Player_Imge\Player_Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="Player_State_UI.h">
+      <Filter>Game\05. Object\Game_UI\Player_UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss_Name.h">
+      <Filter>Game\05. Object\Game_UI\Boss_UI\Boss_Name</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss_HP.h">
+      <Filter>Game\05. Object\Game_UI\Boss_UI\Boss_HP</Filter>
+    </ClInclude>
+    <ClInclude Include="Dark_Back.h">
+      <Filter>Game\05. Object\01. Player\Player_Attack\Dark_Attack\Dark_BAck</Filter>
+    </ClInclude>
+    <ClInclude Include="END_Level.h">
+      <Filter>Game\04. Level\01. Start\END_LEVEL</Filter>
+    </ClInclude>
+    <ClInclude Include="A_.h">
+      <Filter>Game\05. Object\Game_UI\Player_UI\Player_Imge\Player_Skill\sibar</Filter>
+    </ClInclude>
+    <ClInclude Include="B_.h">
+      <Filter>Game\05. Object\Game_UI\Player_UI\Player_Imge\Player_Skill\sibar</Filter>
+    </ClInclude>
+    <ClInclude Include="Skil_Col.h">
+      <Filter>Game\05. Object\Game_UI\Player_UI\Player_Imge\Player_Skill\sibar</Filter>
+    </ClInclude>
+    <ClInclude Include="Dark_Wave_State.h">
+      <Filter>Game\05. Object\01. Player\Player_State\Attack\Dark_wavse</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="WinAPI.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="WinAPI.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="bitmap1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CEngine.cpp">
+      <Filter>Game\02. Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Default</Filter>
+    </ClCompile>
+    <ClCompile Include="CTimeMgr.cpp">
+      <Filter>Game\03. Manager\01. TimeMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CBase.cpp">
+      <Filter>Game\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="CObj.cpp">
+      <Filter>Game\05. Object</Filter>
+    </ClCompile>
+    <ClCompile Include="CLevel.cpp">
+      <Filter>Game\04. Level</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayer.cpp">
+      <Filter>Game\05. Object\01. Player</Filter>
+    </ClCompile>
+    <ClCompile Include="CMonster.cpp">
+      <Filter>Game\05. Object\02. Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="CKeyMgr.cpp">
+      <Filter>Game\03. Manager\02. KeyMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CLevelMgr.cpp">
+      <Filter>Game\03. Manager\03. LevelMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CMissile.cpp">
+      <Filter>Game\05. Object\03. Missile</Filter>
+    </ClCompile>
+    <ClCompile Include="CTaskMgr.cpp">
+      <Filter>Game\03. Manager\07. TaskMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="func.cpp">
+      <Filter>Game\01. Header</Filter>
+    </ClCompile>
+    <ClCompile Include="CAsset.cpp">
+      <Filter>Game\07. Asset</Filter>
+    </ClCompile>
+    <ClCompile Include="CTexture.cpp">
+      <Filter>Game\07. Asset\01. Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="CPathMgr.cpp">
+      <Filter>Game\03. Manager\06. PathMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CAssetMgr.cpp">
+      <Filter>Game\03. Manager\04. AssetMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CComponent.cpp">
+      <Filter>Game\06. Component</Filter>
+    </ClCompile>
+    <ClCompile Include="CCollider.cpp">
+      <Filter>Game\06. Component\01. Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="CDebugMgr.cpp">
+      <Filter>Game\03. Manager\08. DebugMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CSelectObject.cpp">
+      <Filter>Game\08. Module</Filter>
+    </ClCompile>
+    <ClCompile Include="CCollisionMgr.cpp">
+      <Filter>Game\03. Manager\09. CollisionMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CGuidedMissile.cpp">
+      <Filter>Game\05. Object\03. Missile\GuidedMissile</Filter>
+    </ClCompile>
+    <ClCompile Include="CAnimator.cpp">
+      <Filter>Game\06. Component\02. Animator</Filter>
+    </ClCompile>
+    <ClCompile Include="CAnim.cpp">
+      <Filter>Game\08. Module\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="CRigidBody.cpp">
+      <Filter>Game\06. Component\03. RigidBody</Filter>
+    </ClCompile>
+    <ClCompile Include="CForce.cpp">
+      <Filter>Game\05. Object\04. Force</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlatform.cpp">
+      <Filter>Game\05. Object\05. Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="CTileMap.cpp">
+      <Filter>Game\06. Component\04. TileMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CTile.cpp">
+      <Filter>Game\05. Object\06. Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="CCamera.cpp">
+      <Filter>Game\03. Manager\10. Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="CKiMissile.cpp">
+      <Filter>Game\05. Object\03. Missile\CKmissile</Filter>
+    </ClCompile>
+    <ClCompile Include="CBackground.cpp">
+      <Filter>Game\05. Object\07. Background</Filter>
+    </ClCompile>
+    <ClCompile Include="CAttack.cpp">
+      <Filter>Game\05. Object\08. Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="CLevel_Start.cpp">
+      <Filter>Game\04. Level\01. Start</Filter>
+    </ClCompile>
+    <ClCompile Include="CLevel_Editor.cpp">
+      <Filter>Game\04. Level\07. Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="CLogMgr.cpp">
+      <Filter>Game\03. Manager\11. LogMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CUI.cpp">
+      <Filter>Game\05. Object\09. UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIMgr.cpp">
+      <Filter>Game\03. Manager\12.UIMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CBtnUI.cpp">
+      <Filter>Game\05. Object\09. UI\CBtnUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CPanel.cpp">
+      <Filter>Game\05. Object\09. UI\Panel</Filter>
+    </ClCompile>
+    <ClCompile Include="CSound.cpp">
+      <Filter>Game\07. Asset\02. Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="CSoundMgr.cpp">
+      <Filter>Game\03. Manager\13. SoundMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CStateMachine.cpp">
+      <Filter>Game\06. Component\05. StateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="CState.cpp">
+      <Filter>Game\08. Module\State</Filter>
+    </ClCompile>
+    <ClCompile Include="Ent_Idle_State.cpp">
+      <Filter>Game\05. Object\02. Monster\나무 엔트\Ent_Idle_State</Filter>
+    </ClCompile>
+    <ClCompile Include="Ent_Atk_State.cpp">
+      <Filter>Game\05. Object\02. Monster\나무 엔트\Ent_Attack_State</Filter>
+    </ClCompile>
+    <ClCompile Include="Ent_Trace_State.cpp">
+      <Filter>Game\05. Object\02. Monster\나무 엔트\Ent_Trace_State</Filter>
+    </ClCompile>
+    <ClCompile Include="CEditTextObj.cpp">
+      <Filter>Game\05. Object\10. EditObj\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="CEditAniObj.cpp">
+      <Filter>Game\05. Object\10. EditObj\Ani</Filter>
+    </ClCompile>
+    <ClCompile Include="CLevel_Stage01.cpp">
+      <Filter>Game\04. Level\02. Stage01</Filter>
+    </ClCompile>
+    <ClCompile Include="Cfloor.cpp">
+      <Filter>Game\05. Object\05. Platform\floor</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayer_Normal_Attack.cpp">
+      <Filter>Game\05. Object\01. Player\Player_Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="Ent_Monster.cpp">
+      <Filter>Game\05. Object\02. Monster\나무 엔트</Filter>
+    </ClCompile>
+    <ClCompile Include="BEnt_Monster.cpp">
+      <Filter>Game\05. Object\02. Monster\벚꽃 엔트</Filter>
+    </ClCompile>
+    <ClCompile Include="Sword_Monster.cpp">
+      <Filter>Game\05. Object\02. Monster\기사</Filter>
+    </ClCompile>
+    <ClCompile Include="Mage_Monster.cpp">
+      <Filter>Game\05. Object\02. Monster\마법사</Filter>
+    </ClCompile>
+    <ClCompile Include="BigEnt_Monster.cpp">
+      <Filter>Game\05. Object\02. Monster\거대엔트</Filter>
+    </ClCompile>
+    <ClCompile Include="Ent_Atk.cpp">
+      <Filter>Game\05. Object\02. Monster\나무 엔트\Ent_Atk</Filter>
+    </ClCompile>
+    <ClCompile Include="Sniper_Monster.cpp">
+      <Filter>Game\05. Object\02. Monster\저격수</Filter>
+    </ClCompile>
+    <ClCompile Include="CSkullHead.cpp">
+      <Filter>Game\05. Object\01. Player\Player_Head</Filter>
+    </ClCompile>
+    <ClCompile Include="Sniper_Idle_State.cpp">
+      <Filter>Game\05. Object\02. Monster\저격수\Sniper_Idle_State</Filter>
+    </ClCompile>
+    <ClCompile Include="Sniper_Trace_State.cpp">
+      <Filter>Game\05. Object\02. Monster\저격수\Sniper_Trace_State</Filter>
+    </ClCompile>
+    <ClCompile Include="Sniper_Attack_State.cpp">
+      <Filter>Game\05. Object\02. Monster\저격수\Sniper_Attack_State</Filter>
+    </ClCompile>
+    <ClCompile Include="BEnt_Idle_State.cpp">
+      <Filter>Game\05. Object\02. Monster\벚꽃 엔트\BEnt_Idle_State</Filter>
+    </ClCompile>
+    <ClCompile Include="BEnt_Trace_State.cpp">
+      <Filter>Game\05. Object\02. Monster\벚꽃 엔트\BEnt_Trace_State</Filter>
+    </ClCompile>
+    <ClCompile Include="BEnt_Attack_State.cpp">
+      <Filter>Game\05. Object\02. Monster\벚꽃 엔트\BEnt_Attack_State</Filter>
+    </ClCompile>
+    <ClCompile Include="Mage_Idle_State.cpp">
+      <Filter>Game\05. Object\02. Monster\마법사\Mage_Idle_State</Filter>
+    </ClCompile>
+    <ClCompile Include="Mage_Trace_State.cpp">
+      <Filter>Game\05. Object\02. Monster\마법사\Mage_Trace_State</Filter>
+    </ClCompile>
+    <ClCompile Include="Mage_Attack_State.cpp">
+      <Filter>Game\05. Object\02. Monster\마법사\Mage_Attack_State</Filter>
+    </ClCompile>
+    <ClCompile Include="Sword_Idle_State.cpp">
+      <Filter>Game\05. Object\02. Monster\기사\Sword_Idle_State</Filter>
+    </ClCompile>
+    <ClCompile Include="Sword_Trace_State.cpp">
+      <Filter>Game\05. Object\02. Monster\기사\Sword_Trace_State</Filter>
+    </ClCompile>
+    <ClCompile Include="Sword_Attack_State.cpp">
+      <Filter>Game\05. Object\02. Monster\기사\Sword_Attack_State</Filter>
+    </ClCompile>
+    <ClCompile Include="BigEnt_Idle_State.cpp">
+      <Filter>Game\05. Object\02. Monster\거대엔트\BigEnt_Idle_State</Filter>
+    </ClCompile>
+    <ClCompile Include="BigEnt_Trace_State.cpp">
+      <Filter>Game\05. Object\02. Monster\거대엔트\BigEnt_Trace_State</Filter>
+    </ClCompile>
+    <ClCompile Include="BigEnt_Attack_State.cpp">
+      <Filter>Game\05. Object\02. Monster\거대엔트\BigEnt_Attack_State</Filter>
+    </ClCompile>
+    <ClCompile Include="BEnt_Atk.cpp">
+      <Filter>Game\05. Object\02. Monster\벚꽃 엔트\BEnt_Atk</Filter>
+    </ClCompile>
+    <ClCompile Include="Mage_Atk.cpp">
+      <Filter>Game\05. Object\02. Monster\마법사\Mage_Atk</Filter>
+    </ClCompile>
+    <ClCompile Include="BigEnt_Atk.cpp">
+      <Filter>Game\05. Object\02. Monster\거대엔트\BigEnt_Atk</Filter>
+    </ClCompile>
+    <ClCompile Include="Attack1_State.cpp">
+      <Filter>Game\05. Object\01. Player\Player_State\Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="Attack2_State.cpp">
+      <Filter>Game\05. Object\01. Player\Player_State\Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="Dash_State.cpp">
+      <Filter>Game\05. Object\01. Player\Player_State\Dash_Jump</Filter>
+    </ClCompile>
+    <ClCompile Include="Jump_State.cpp">
+      <Filter>Game\05. Object\01. Player\Player_State\Dash_Jump</Filter>
+    </ClCompile>
+    <ClCompile Include="Fall_State.cpp">
+      <Filter>Game\05. Object\01. Player\Player_State\Dash_Jump</Filter>
+    </ClCompile>
+    <ClCompile Include="Upfall_State.cpp">
+      <Filter>Game\05. Object\01. Player\Player_State\Dash_Jump</Filter>
+    </ClCompile>
+    <ClCompile Include="Left_State.cpp">
+      <Filter>Game\05. Object\01. Player\Player_State\Move</Filter>
+    </ClCompile>
+    <ClCompile Include="Right_State.cpp">
+      <Filter>Game\05. Object\01. Player\Player_State\Move</Filter>
+    </ClCompile>
+    <ClCompile Include="LeftIdle_State.cpp">
+      <Filter>Game\05. Object\01. Player\Player_State\Move</Filter>
+    </ClCompile>
+    <ClCompile Include="RightIdle_State.cpp">
+      <Filter>Game\05. Object\01. Player\Player_State\Move</Filter>
+    </ClCompile>
+    <ClCompile Include="JumpAtk_State.cpp">
+      <Filter>Game\05. Object\01. Player\Player_State\Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss_Monster.cpp">
+      <Filter>Game\05. Object\02-1. Boss Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="BossLeft.cpp">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_Part\BossLeft</Filter>
+    </ClCompile>
+    <ClCompile Include="BossRight.cpp">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_Part\BossRight</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss_Chin.cpp">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_Part\BossChin</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss_Body.cpp">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_Part\Boss_Body</Filter>
+    </ClCompile>
+    <ClCompile Include="Stamp_End_State.cpp">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_State\Stamp</Filter>
+    </ClCompile>
+    <ClCompile Include="Stamp_Enter_State.cpp">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_State\Stamp</Filter>
+    </ClCompile>
+    <ClCompile Include="Stamping_State.cpp">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_State\Stamp</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss_Idle.cpp">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_State\IDle</Filter>
+    </ClCompile>
+    <ClCompile Include="Snap_Enter_State.cpp">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_State\Snap</Filter>
+    </ClCompile>
+    <ClCompile Include="Snap_End_State.cpp">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_State\Snap</Filter>
+    </ClCompile>
+    <ClCompile Include="Snaping_State.cpp">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_State\Snap</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect_Obj.cpp">
+      <Filter>Game\05. Object\10. EditObj\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="CLevel_Stage02.cpp">
+      <Filter>Game\04. Level\03. Stage02</Filter>
+    </ClCompile>
+    <ClCompile Include="CLevel_Stage03.cpp">
+      <Filter>Game\04. Level\04. Stage03</Filter>
+    </ClCompile>
+    <ClCompile Include="CLevel_Stage04.cpp">
+      <Filter>Game\04. Level\05. Stage04</Filter>
+    </ClCompile>
+    <ClCompile Include="CLevel_Stage05.cpp">
+      <Filter>Game\04. Level\06. Stage05</Filter>
+    </ClCompile>
+    <ClCompile Include="Ball_Enter_State.cpp">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_State\Ball</Filter>
+    </ClCompile>
+    <ClCompile Include="Balling_State.cpp">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_State\Ball</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss_Effect.cpp">
+      <Filter>Game\05. Object\10. EditObj\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss_Ball_Obj.cpp">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_Ball_Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss_Ball_Create.cpp">
+      <Filter>Game\05. Object\02-1. Boss Monster\Boss_Ball_Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="Sniper_Atk.cpp">
+      <Filter>Game\05. Object\02. Monster\저격수\Sniper_Atk</Filter>
+    </ClCompile>
+    <ClCompile Include="Sword_Atk_Obj.cpp">
+      <Filter>Game\05. Object\02. Monster\기사\Sword_Atk</Filter>
+    </ClCompile>
+    <ClCompile Include="Dash_Effect.cpp">
+      <Filter>Game\05. Object\01. Player\Player_Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Jump_Effect.cpp">
+      <Filter>Game\05. Object\01. Player\Player_Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster_Wall.cpp">
+      <Filter>Game\05. Object\05. Platform\Monster_wall</Filter>
+    </ClCompile>
+    <ClCompile Include="Door_1.cpp">
+      <Filter>Game\05. Object\05. Platform\Door_1</Filter>
+    </ClCompile>
+    <ClCompile Include="HP_Bar.cpp">
+      <Filter>Game\05. Object\Game_UI\Player_UI\HPbar</Filter>
+    </ClCompile>
+    <ClCompile Include="Player_Imge.cpp">
+      <Filter>Game\05. Object\Game_UI\Player_UI\Player_Imge</Filter>
+    </ClCompile>
+    <ClCompile Include="Attack3_State.cpp">
+      <Filter>Game\05. Object\01. Player\Player_State\Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="Dark_Attack.cpp">
+      <Filter>Game\05. Object\01. Player\Player_Attack\Dark_Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="Dark_Waves.cpp">
+      <Filter>Game\05. Object\01. Player\Player_State\Attack\Dark_wavse</Filter>
+    </ClCompile>
+    <ClCompile Include="Ent_Hit_State.cpp">
+      <Filter>Game\05. Object\02. Monster\나무 엔트\Ent_Idle_State</Filter>
+    </ClCompile>
+    <ClCompile Include="Sword_Hit_State.cpp">
+      <Filter>Game\05. Object\02. Monster\기사\Sword_Idle_State</Filter>
+    </ClCompile>
+    <ClCompile Include="BigEnt_Hit_State.cpp">
+      <Filter>Game\05. Object\02. Monster\거대엔트\BigEnt_Idle_State</Filter>
+    </ClCompile>
+    <ClCompile Include="Mage_Hit_State.cpp">
+      <Filter>Game\05. Object\02. Monster\마법사\Mage_Idle_State</Filter>
+    </ClCompile>
+    <ClCompile Include="BEnt_Hit_State.cpp">
+      <Filter>Game\05. Object\02. Monster\벚꽃 엔트\BEnt_Idle_State</Filter>
+    </ClCompile>
+    <ClCompile Include="Sniper_Hit_State.cpp">
+      <Filter>Game\05. Object\02. Monster\저격수\Sniper_Idle_State</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss_Door.cpp">
+      <Filter>Game\05. Object\05. Platform\Door_1</Filter>
+    </ClCompile>
+    <ClCompile Include="Player_Effect.cpp">
+      <Filter>Game\05. Object\01. Player\Player_Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Player_Skill.cpp">
+      <Filter>Game\05. Object\Game_UI\Player_UI\Player_Imge\Player_Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="Player_Skill2.cpp">
+      <Filter>Game\05. Object\Game_UI\Player_UI\Player_Imge\Player_Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="Player_State_UI.cpp">
+      <Filter>Game\05. Object\Game_UI\Player_UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss_Name.cpp">
+      <Filter>Game\05. Object\Game_UI\Boss_UI\Boss_Name</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss_HP.cpp">
+      <Filter>Game\05. Object\Game_UI\Boss_UI\Boss_HP</Filter>
+    </ClCompile>
+    <ClCompile Include="Dark_Back.cpp">
+      <Filter>Game\05. Object\01. Player\Player_Attack\Dark_Attack\Dark_BAck</Filter>
+    </ClCompile>
+    <ClCompile Include="END_Level.cpp">
+      <Filter>Game\04. Level\01. Start\END_LEVEL</Filter>
+    </ClCompile>
+    <ClCompile Include="A_.cpp">
+      <Filter>Game\05. Object\Game_UI\Player_UI\Player_Imge\Player_Skill\sibar</Filter>
+    </ClCompile>
+    <ClCompile Include="B_.cpp">
+      <Filter>Game\05. Object\Game_UI\Player_UI\Player_Imge\Player_Skill\sibar</Filter>
+    </ClCompile>
+    <ClCompile Include="Skil_Col.cpp">
+      <Filter>Game\05. Object\Game_UI\Player_UI\Player_Imge\Player_Skill\sibar</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Game\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Dark_Wave_State.cpp">
+      <Filter>Game\05. Object\01. Player\Player_State\Attack\Dark_wavse</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

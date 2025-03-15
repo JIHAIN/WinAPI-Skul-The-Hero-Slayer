@@ -1,0 +1,58 @@
+[ANIMATION_NAME]
+Jump_Effect
+
+[ATLAS_TEXTURE]
+Jump_Effect
+texture\Double_Jump1.png
+
+[FRAME_DATA]
+Frame_Count 8
+
+Frame_Index 0
+Left_Top    0.000000 24.000000
+Offset      0.000000 0.000000
+Slice       50.000000 30.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    182.208404 4.294860
+Offset      0.000000 0.000000
+Slice       150.000000 62.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    384.208008 0.00
+Offset      0.000000 0.000000
+Slice       196.000000 68.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    584.208008 0.00
+Offset      0.000000 0.000000
+Slice       198.000000 76.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    791.557984 6.294860
+Offset      1.000000 0.000000
+Slice       196.000000 62.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    994.539978 4.294860
+Offset      2.000000 1.000000
+Slice       196.000000 72.000000
+Duration    0.100000
+
+Frame_Index 6
+Left_Top    1192.540040 4.294860
+Offset      1.000000 0.000000
+Slice       202.000000 68.000000
+Duration    0.100000
+
+Frame_Index 7
+Left_Top    1392.202026 10.294860
+Offset      3.000000 1.000000
+Slice       208.000000 60.000000
+Duration    0.100000
+

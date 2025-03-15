@@ -1,0 +1,52 @@
+[ANIMATION_NAME]
+Dash_Effect_Left
+
+[ATLAS_TEXTURE]
+Dash_Effect_Left
+texture\Dash_smoke_Left.png
+
+[FRAME_DATA]
+Frame_Count 7
+
+Frame_Index 0
+Left_Top    0.000000 33.316200
+Offset      5.000000 0.000000
+Slice       75.000000 45.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    74.214600 21.316099
+Offset      0.000000 0.000000
+Slice       81.000000 69.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    158.214996 0.000000
+Offset      4.000000 -3.000000
+Slice       111.000000 87.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    263.214996 0.000000
+Offset      3.000000 -3.000000
+Slice       107.000000 99.000000
+Duration    0.100000
+
+Frame_Index 4
+Left_Top    558.000000 0.316131
+Offset      9.000000 -6.000000
+Slice       91.000000 96.000000
+Duration    0.100000
+
+Frame_Index 5
+Left_Top    651.000000 0.316131
+Offset      5.000000 -4.000000
+Slice       91.000000 93.000000
+Duration    0.000000
+
+Frame_Index 6
+Left_Top    744.000000 6.316140
+Offset      10.000000 -8.000000
+Slice       91.000000 81.000000
+Duration    0.100000
+

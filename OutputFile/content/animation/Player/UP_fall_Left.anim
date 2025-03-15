@@ -1,0 +1,22 @@
+[ANIMATION_NAME]
+UP_fall_Left
+
+[ATLAS_TEXTURE]
+UP_fall_Left
+texture\Skul_Atlase_re.png
+
+[FRAME_DATA]
+Frame_Count 2
+
+Frame_Index 0
+Left_Top    892.000000 535.116028
+Offset      -3.000000 7.000000
+Slice       93.000000 88.000000
+Duration    1.000000
+
+Frame_Index 1
+Left_Top    795.000000 533.116028
+Offset      -4.000000 3.000000
+Slice       85.000000 85.000000
+Duration    1.000000
+

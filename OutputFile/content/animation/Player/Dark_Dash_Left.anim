@@ -1,0 +1,16 @@
+[ANIMATION_NAME]
+Dark_Dash_Left
+
+[ATLAS_TEXTURE]
+Dark_Dash_Left
+texture\Dark_Slayer_Left.png
+
+[FRAME_DATA]
+Frame_Count 1
+
+Frame_Index 0
+Left_Top    1705.900024 305.604004
+Offset      0.000000 0.000000
+Slice       158.000000 111.000000
+Duration    1.000000
+
